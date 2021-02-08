@@ -1,0 +1,3 @@
+property ORDER = (input->output->ORDER).
+INPUT = (input->send->ack->INPUT).
+OUTPUT = (send->output->ack->OUTPUT).
