@@ -36,7 +36,7 @@ public class Retrieve_Data {
             map_ActionToInt.put(Actions.get(i).get(0), i + 1);
         }
 //        sequences.size();
-        for (int i = 0; i < sequences.size(); i++) {
+        for (int i = 0; i < 20; i++) {
             Algorithm_ alg = new Algorithm_();
             alg.initAndRun(sg.constructedLTS(sequences.get(i)));
             ArrayList<Integer> list = new ArrayList<>();

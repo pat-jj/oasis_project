@@ -63,6 +63,8 @@ public class SequenceGenerator {
             }else{
                 result = "P" + i + "=(" + subs[0] + "->END|" + subs[1] + "->P" + (i-1) + ").";
             }
+        }else if (i == 1){
+                result = "P" + i + "=(" + subs[0] + "->P" + (i + 1) + "),";
         }else{
             if (subs[1] == null){
                 result = "P" + i + "=(" + subs[0] + "->P" + (i + 1) + "),";

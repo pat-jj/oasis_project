@@ -6,14 +6,16 @@ import java.util.ArrayList;
 import java.util.List;
 
 public class CsvWriter {
-    public static <T> void writeCSV(ArrayList<ArrayList<Integer>> data, String[] header, String filePath) throws IOException {
+    public static <T> void writeCSV(ArrayList<ArrayList<Integer>> data, String[] header, String filePath)  {
         List<String[]> csvData = createCsvDataSpecial(data, header);
 
         // default all fields are enclosed in double quotes
         // default separator is a comma
-        String filename = filePath.concat("project_data_9.csv");
+        String filename = filePath.concat("project_data_test.csv");
         try (CSVWriter writer = new CSVWriter(new FileWriter(filename))) {
             writer.writeAll(csvData);
+        } catch (Exception e){
+            System.out.println("failed to write CSV");
         }
 
     }
