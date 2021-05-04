@@ -1,0 +1,17 @@
+
+//Weakened User Behaviour: External Action(1) ** enter, exit **
+User = (enter_r -> IAct),
+IAct = (login -> IAct | select -> IAct | charge -> IAct | pay_pw -> IAct
+        | back -> IAct | decide_votes -> IAct | confirm -> IAct | logout -> IAct | exit_r -> User).
+
+Room = (u.enter_r -> u.exit_r -> Room | mu.enter_r -> mu.exit_r -> Room).
+
+minimal||U = (u:User)@{u.enter_r,  u.login, u.select, u.charge, u.pay_pw,
+                        u.decide_votes, u.confirm, u.logout, u.exit_r, u.back}.
+
+minimal||MU = (mu:User)@{mu.enter_r,  mu.login, mu.select, mu.charge, mu.pay_pw,
+                         mu.decide_votes, mu.confirm, mu.logout, mu.exit_r, mu.back}.
+
+//||Env = (Room||U||MU||{u, mu}::BM_1).
+
+

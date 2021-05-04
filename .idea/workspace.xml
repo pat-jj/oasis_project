@@ -1,0 +1,1447 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="40cbfa5a-7796-46af-834d-93c19995ac68" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/lib.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/magicbeans_beta2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/nasa_.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/scenebeans.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Algorithm.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Algorithm_.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CsvUtils.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LTSFunction.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LTS_to_KS.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SequenceGenerator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/algorithm.lts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/com/HelloWorldBuilder.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/com/JasminVisitor.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/com/ListClass2.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/com/META-INF/MANIFEST.MF" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/com/Package.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/com/Peephole.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/com/ProxyCreator.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/com/chatley/magicbeans/Adder.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/com/chatley/magicbeans/Binding.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/com/chatley/magicbeans/ByteCodeChecker.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/com/chatley/magicbeans/Component-withUpdate" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/com/chatley/magicbeans/Component.281103" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/com/chatley/magicbeans/Component.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/com/chatley/magicbeans/ConfigurationManager.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/com/chatley/magicbeans/DirectoryMonitor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/com/chatley/magicbeans/DontBindNotifiable.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/com/chatley/magicbeans/FSPDefinition.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/com/chatley/magicbeans/Hole.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/com/chatley/magicbeans/JarClassLoader.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/com/chatley/magicbeans/JarResources.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/com/chatley/magicbeans/Logger.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/com/chatley/magicbeans/MultiClassLoader.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/com/chatley/magicbeans/MultiMethod.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/com/chatley/magicbeans/Notifiable.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/com/chatley/magicbeans/NullLogger.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/com/chatley/magicbeans/ObserverList.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/com/chatley/magicbeans/Pair.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/com/chatley/magicbeans/Peg.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/com/chatley/magicbeans/PluginInvocationHandler.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/com/chatley/magicbeans/PluginManager.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/com/chatley/magicbeans/Strategy.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/com/chatley/magicbeans/SystemOutLogger.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/com/de/fub/bytecode/ClassPath$1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/com/de/fub/bytecode/ClassPath$2.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/com/de/fub/bytecode/ClassPath$3.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/com/de/fub/bytecode/ClassPath$ClassFile.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/com/de/fub/bytecode/ClassPath$Dir.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/com/de/fub/bytecode/ClassPath$PathEntry.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/com/de/fub/bytecode/ClassPath$Zip.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/com/de/fub/bytecode/ClassPath.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/com/de/fub/bytecode/Constants.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/com/de/fub/bytecode/ExceptionConstants$1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/com/de/fub/bytecode/ExceptionConstants.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/com/de/fub/bytecode/Repository.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/com/de/fub/bytecode/classfile/AccessFlags.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/com/de/fub/bytecode/classfile/Attribute.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/com/de/fub/bytecode/classfile/ClassParser.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/com/de/fub/bytecode/classfile/Code.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/com/de/fub/bytecode/classfile/CodeException.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/com/de/fub/bytecode/classfile/Constant.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/com/de/fub/bytecode/classfile/ConstantCP.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/com/de/fub/bytecode/classfile/ConstantClass.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/com/de/fub/bytecode/classfile/ConstantDouble.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/com/de/fub/bytecode/classfile/ConstantFieldref.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/com/de/fub/bytecode/classfile/ConstantFloat.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/com/de/fub/bytecode/classfile/ConstantInteger.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/com/de/fub/bytecode/classfile/ConstantInterfaceMethodref.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/com/de/fub/bytecode/classfile/ConstantLong.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/com/de/fub/bytecode/classfile/ConstantMethodref.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/com/de/fub/bytecode/classfile/ConstantNameAndType.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/com/de/fub/bytecode/classfile/ConstantObject.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/com/de/fub/bytecode/classfile/ConstantPool.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/com/de/fub/bytecode/classfile/ConstantString.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/com/de/fub/bytecode/classfile/ConstantUtf8.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/com/de/fub/bytecode/classfile/ConstantValue.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/com/de/fub/bytecode/classfile/DefaultVisitor.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/com/de/fub/bytecode/classfile/Deprecated.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/com/de/fub/bytecode/classfile/DescendingVisitor.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/com/de/fub/bytecode/classfile/EmptyVisitor.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/com/de/fub/bytecode/classfile/ExceptionTable.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/com/de/fub/bytecode/classfile/Field.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/com/de/fub/bytecode/classfile/FieldOrMethod.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/com/de/fub/bytecode/classfile/InnerClass.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/com/de/fub/bytecode/classfile/InnerClasses.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/com/de/fub/bytecode/classfile/JavaClass.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/com/de/fub/bytecode/classfile/LineNumber.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/com/de/fub/bytecode/classfile/LineNumberTable.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/com/de/fub/bytecode/classfile/LocalVariable.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/com/de/fub/bytecode/classfile/LocalVariableTable.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/com/de/fub/bytecode/classfile/Method.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/com/de/fub/bytecode/classfile/Node.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/com/de/fub/bytecode/classfile/PMGClass.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/com/de/fub/bytecode/classfile/Signature$MyByteArrayInputStream.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/com/de/fub/bytecode/classfile/Signature.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/com/de/fub/bytecode/classfile/SourceFile.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/com/de/fub/bytecode/classfile/StackMap.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/com/de/fub/bytecode/classfile/StackMapEntry.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/com/de/fub/bytecode/classfile/StackMapType.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/com/de/fub/bytecode/classfile/Synthetic.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/com/de/fub/bytecode/classfile/Unknown.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/com/de/fub/bytecode/classfile/Utility$JavaReader.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/com/de/fub/bytecode/classfile/Utility$JavaWriter.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/com/de/fub/bytecode/classfile/Utility.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/com/de/fub/bytecode/classfile/Visitor.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/com/de/fub/bytecode/generic/AALOAD.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/com/de/fub/bytecode/generic/AASTORE.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/com/de/fub/bytecode/generic/ACONST_NULL.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/com/de/fub/bytecode/generic/ALOAD.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/com/de/fub/bytecode/generic/ANEWARRAY.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/com/de/fub/bytecode/generic/ARETURN.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/com/de/fub/bytecode/generic/ARRAYLENGTH.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/com/de/fub/bytecode/generic/ASTORE.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/com/de/fub/bytecode/generic/ATHROW.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/com/de/fub/bytecode/generic/AllocationInstruction.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/com/de/fub/bytecode/generic/ArithmeticInstruction.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/com/de/fub/bytecode/generic/ArrayInstruction.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/com/de/fub/bytecode/generic/ArrayType.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/com/de/fub/bytecode/generic/BALOAD.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/com/de/fub/bytecode/generic/BASTORE.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/com/de/fub/bytecode/generic/BIPUSH.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/com/de/fub/bytecode/generic/BREAKPOINT.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/com/de/fub/bytecode/generic/BasicType.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/com/de/fub/bytecode/generic/BranchHandle.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/com/de/fub/bytecode/generic/BranchInstruction.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/com/de/fub/bytecode/generic/CALOAD.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/com/de/fub/bytecode/generic/CASTORE.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/com/de/fub/bytecode/generic/CHECKCAST.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/com/de/fub/bytecode/generic/CPInstruction.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/com/de/fub/bytecode/generic/ClassGen.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/com/de/fub/bytecode/generic/ClassGenException.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/com/de/fub/bytecode/generic/ClassObserver.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/com/de/fub/bytecode/generic/CodeConstraint.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/com/de/fub/bytecode/generic/CodeExceptionGen.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/com/de/fub/bytecode/generic/CompoundInstruction.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/com/de/fub/bytecode/generic/ConstantPoolGen$Index.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/com/de/fub/bytecode/generic/ConstantPoolGen.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/com/de/fub/bytecode/generic/ConstantPushInstruction.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/com/de/fub/bytecode/generic/ConversionInstruction.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/com/de/fub/bytecode/generic/D2F.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/com/de/fub/bytecode/generic/D2I.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/com/de/fub/bytecode/generic/D2L.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/com/de/fub/bytecode/generic/DADD.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/com/de/fub/bytecode/generic/DALOAD.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/com/de/fub/bytecode/generic/DASTORE.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/com/de/fub/bytecode/generic/DCMPG.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/com/de/fub/bytecode/generic/DCMPL.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/com/de/fub/bytecode/generic/DCONST.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/com/de/fub/bytecode/generic/DDIV.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/com/de/fub/bytecode/generic/DLOAD.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/com/de/fub/bytecode/generic/DMUL.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/com/de/fub/bytecode/generic/DNEG.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/com/de/fub/bytecode/generic/DREM.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/com/de/fub/bytecode/generic/DRETURN.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/com/de/fub/bytecode/generic/DSTORE.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/com/de/fub/bytecode/generic/DSUB.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/com/de/fub/bytecode/generic/DUP.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/com/de/fub/bytecode/generic/DUP2.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/com/de/fub/bytecode/generic/DUP2_X1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/com/de/fub/bytecode/generic/DUP2_X2.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/com/de/fub/bytecode/generic/DUP_X1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/com/de/fub/bytecode/generic/DUP_X2.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/com/de/fub/bytecode/generic/DefaultVisitor.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/com/de/fub/bytecode/generic/EmptyVisitor.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/com/de/fub/bytecode/generic/ExceptionThrower.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/com/de/fub/bytecode/generic/F2D.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/com/de/fub/bytecode/generic/F2I.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/com/de/fub/bytecode/generic/F2L.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/com/de/fub/bytecode/generic/FADD.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/com/de/fub/bytecode/generic/FALOAD.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/com/de/fub/bytecode/generic/FASTORE.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/com/de/fub/bytecode/generic/FCMPG.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/com/de/fub/bytecode/generic/FCMPL.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/com/de/fub/bytecode/generic/FCONST.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/com/de/fub/bytecode/generic/FDIV.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/com/de/fub/bytecode/generic/FLOAD.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/com/de/fub/bytecode/generic/FMUL.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/com/de/fub/bytecode/generic/FNEG.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/com/de/fub/bytecode/generic/FREM.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/com/de/fub/bytecode/generic/FRETURN.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/com/de/fub/bytecode/generic/FSTORE.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/com/de/fub/bytecode/generic/FSUB.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/com/de/fub/bytecode/generic/FieldGen.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/com/de/fub/bytecode/generic/FieldGenOrMethodGen.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/com/de/fub/bytecode/generic/FieldInstruction.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/com/de/fub/bytecode/generic/FieldObserver.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/com/de/fub/bytecode/generic/FieldOrMethod.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/com/de/fub/bytecode/generic/FindPattern.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/com/de/fub/bytecode/generic/GETFIELD.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/com/de/fub/bytecode/generic/GETSTATIC.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/com/de/fub/bytecode/generic/GOTO.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/com/de/fub/bytecode/generic/GOTO_W.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/com/de/fub/bytecode/generic/GotoInstruction.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/com/de/fub/bytecode/generic/I2B.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/com/de/fub/bytecode/generic/I2C.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/com/de/fub/bytecode/generic/I2D.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/com/de/fub/bytecode/generic/I2F.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/com/de/fub/bytecode/generic/I2L.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/com/de/fub/bytecode/generic/I2S.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/com/de/fub/bytecode/generic/IADD.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/com/de/fub/bytecode/generic/IALOAD.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/com/de/fub/bytecode/generic/IAND.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/com/de/fub/bytecode/generic/IASTORE.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/com/de/fub/bytecode/generic/ICONST.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/com/de/fub/bytecode/generic/IDIV.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/com/de/fub/bytecode/generic/IFEQ.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/com/de/fub/bytecode/generic/IFGE.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/com/de/fub/bytecode/generic/IFGT.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/com/de/fub/bytecode/generic/IFLE.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/com/de/fub/bytecode/generic/IFLT.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/com/de/fub/bytecode/generic/IFNE.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/com/de/fub/bytecode/generic/IFNONNULL.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/com/de/fub/bytecode/generic/IFNULL.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/com/de/fub/bytecode/generic/IF_ACMPEQ.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/com/de/fub/bytecode/generic/IF_ACMPNE.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/com/de/fub/bytecode/generic/IF_ICMPEQ.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/com/de/fub/bytecode/generic/IF_ICMPGE.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/com/de/fub/bytecode/generic/IF_ICMPGT.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/com/de/fub/bytecode/generic/IF_ICMPLE.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/com/de/fub/bytecode/generic/IF_ICMPLT.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/com/de/fub/bytecode/generic/IF_ICMPNE.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/com/de/fub/bytecode/generic/IINC.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/com/de/fub/bytecode/generic/ILOAD.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/com/de/fub/bytecode/generic/IMPDEP1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/com/de/fub/bytecode/generic/IMPDEP2.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/com/de/fub/bytecode/generic/IMUL.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/com/de/fub/bytecode/generic/INEG.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/com/de/fub/bytecode/generic/INSTANCEOF.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/com/de/fub/bytecode/generic/INVOKEINTERFACE.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/com/de/fub/bytecode/generic/INVOKESPECIAL.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/com/de/fub/bytecode/generic/INVOKESTATIC.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/com/de/fub/bytecode/generic/INVOKEVIRTUAL.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/com/de/fub/bytecode/generic/IOR.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/com/de/fub/bytecode/generic/IREM.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/com/de/fub/bytecode/generic/IRETURN.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/com/de/fub/bytecode/generic/ISHL.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/com/de/fub/bytecode/generic/ISHR.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/com/de/fub/bytecode/generic/ISTORE.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/com/de/fub/bytecode/generic/ISUB.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/com/de/fub/bytecode/generic/IUSHR.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/com/de/fub/bytecode/generic/IXOR.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/com/de/fub/bytecode/generic/IfInstruction.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/com/de/fub/bytecode/generic/IndexedInstruction.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/com/de/fub/bytecode/generic/Instruction.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/com/de/fub/bytecode/generic/InstructionConstants$Clinit.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/com/de/fub/bytecode/generic/InstructionConstants.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/com/de/fub/bytecode/generic/InstructionFactory$MethodObject.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/com/de/fub/bytecode/generic/InstructionFactory.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/com/de/fub/bytecode/generic/InstructionHandle.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/com/de/fub/bytecode/generic/InstructionList$1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/com/de/fub/bytecode/generic/InstructionList.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/com/de/fub/bytecode/generic/InstructionListObserver.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/com/de/fub/bytecode/generic/InstructionTargeter.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/com/de/fub/bytecode/generic/InvokeInstruction.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/com/de/fub/bytecode/generic/JSR.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/com/de/fub/bytecode/generic/JSR_W.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/com/de/fub/bytecode/generic/JsrInstruction.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/com/de/fub/bytecode/generic/L2D.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/com/de/fub/bytecode/generic/L2F.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/com/de/fub/bytecode/generic/L2I.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/com/de/fub/bytecode/generic/LADD.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/com/de/fub/bytecode/generic/LALOAD.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/com/de/fub/bytecode/generic/LAND.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/com/de/fub/bytecode/generic/LASTORE.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/com/de/fub/bytecode/generic/LCMP.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/com/de/fub/bytecode/generic/LCONST.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/com/de/fub/bytecode/generic/LDC.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/com/de/fub/bytecode/generic/LDC2_W.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/com/de/fub/bytecode/generic/LDC_W.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/com/de/fub/bytecode/generic/LDIV.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/com/de/fub/bytecode/generic/LLOAD.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/com/de/fub/bytecode/generic/LMUL.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/com/de/fub/bytecode/generic/LNEG.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/com/de/fub/bytecode/generic/LOOKUPSWITCH.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/com/de/fub/bytecode/generic/LOR.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/com/de/fub/bytecode/generic/LREM.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/com/de/fub/bytecode/generic/LRETURN.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/com/de/fub/bytecode/generic/LSHL.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/com/de/fub/bytecode/generic/LSHR.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/com/de/fub/bytecode/generic/LSTORE.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/com/de/fub/bytecode/generic/LSUB.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/com/de/fub/bytecode/generic/LUSHR.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/com/de/fub/bytecode/generic/LXOR.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/com/de/fub/bytecode/generic/LineNumberGen.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/com/de/fub/bytecode/generic/LoadClass.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/com/de/fub/bytecode/generic/LoadInstruction.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/com/de/fub/bytecode/generic/LocalVariableGen.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/com/de/fub/bytecode/generic/LocalVariableInstruction.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/com/de/fub/bytecode/generic/MONITORENTER.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/com/de/fub/bytecode/generic/MONITOREXIT.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/com/de/fub/bytecode/generic/MULTIANEWARRAY.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/com/de/fub/bytecode/generic/MethodGen$BranchStack.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/com/de/fub/bytecode/generic/MethodGen$BranchTarget.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/com/de/fub/bytecode/generic/MethodGen.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/com/de/fub/bytecode/generic/MethodObserver.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/com/de/fub/bytecode/generic/NEW.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/com/de/fub/bytecode/generic/NEWARRAY.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/com/de/fub/bytecode/generic/NOP.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/com/de/fub/bytecode/generic/NamedAndTyped.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/com/de/fub/bytecode/generic/ObjectType.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/com/de/fub/bytecode/generic/POP.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/com/de/fub/bytecode/generic/POP2.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/com/de/fub/bytecode/generic/PUSH.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/com/de/fub/bytecode/generic/PUTFIELD.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/com/de/fub/bytecode/generic/PUTSTATIC.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/com/de/fub/bytecode/generic/PopInstruction.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/com/de/fub/bytecode/generic/PushInstruction.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/com/de/fub/bytecode/generic/RET.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/com/de/fub/bytecode/generic/RETURN.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/com/de/fub/bytecode/generic/ReferenceType.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/com/de/fub/bytecode/generic/ReturnInstruction.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/com/de/fub/bytecode/generic/ReturnaddressType.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/com/de/fub/bytecode/generic/SALOAD.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/com/de/fub/bytecode/generic/SASTORE.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/com/de/fub/bytecode/generic/SIPUSH.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/com/de/fub/bytecode/generic/SWAP.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/com/de/fub/bytecode/generic/SWITCH.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/com/de/fub/bytecode/generic/Select.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/com/de/fub/bytecode/generic/StackConsumer.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/com/de/fub/bytecode/generic/StackInstruction.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/com/de/fub/bytecode/generic/StackProducer.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/com/de/fub/bytecode/generic/StoreInstruction.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/com/de/fub/bytecode/generic/TABLESWITCH.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/com/de/fub/bytecode/generic/TargetLostException.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/com/de/fub/bytecode/generic/Type$1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/com/de/fub/bytecode/generic/Type.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/com/de/fub/bytecode/generic/TypedInstruction.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/com/de/fub/bytecode/generic/UnconditionalBranch.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/com/de/fub/bytecode/generic/VariableLengthInstruction.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/com/de/fub/bytecode/generic/Visitor.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/com/de/fub/bytecode/util/AttributeHTML.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/com/de/fub/bytecode/util/ByteSequence$ByteArrayStream.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/com/de/fub/bytecode/util/ByteSequence.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/com/de/fub/bytecode/util/Class2HTML.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/com/de/fub/bytecode/util/ClassLoader.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/com/de/fub/bytecode/util/ClassQueue.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/com/de/fub/bytecode/util/ClassStack.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/com/de/fub/bytecode/util/ClassVector.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/com/de/fub/bytecode/util/CodeHTML.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/com/de/fub/bytecode/util/ConstantHTML.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/com/de/fub/bytecode/util/JavaWrapper.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/com/de/fub/bytecode/util/MethodHTML.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/com/gnu/regexp/CharIndexed.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/com/gnu/regexp/CharIndexedCharArray.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/com/gnu/regexp/CharIndexedInputStream.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/com/gnu/regexp/CharIndexedString.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/com/gnu/regexp/CharIndexedStringBuffer.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/com/gnu/regexp/CharUnit.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/com/gnu/regexp/IntPair.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/com/gnu/regexp/RE.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/com/gnu/regexp/REException.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/com/gnu/regexp/REMatch.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/com/gnu/regexp/REMatchEnumeration.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/com/gnu/regexp/RESyntax.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/com/gnu/regexp/REToken.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/com/gnu/regexp/RETokenAny.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/com/gnu/regexp/RETokenBackRef.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/com/gnu/regexp/RETokenChar.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/com/gnu/regexp/RETokenEnd.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/com/gnu/regexp/RETokenOneOf.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/com/gnu/regexp/RETokenPOSIX.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/com/gnu/regexp/RETokenRange.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/com/gnu/regexp/RETokenRepeated.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/com/gnu/regexp/RETokenStart.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/com/helloify.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/com/id.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/com/listclass.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/com/maxstack.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/com/patchclass.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/examples.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/examples/chapter10_lts/AsynchMsgDemo.lts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/examples/chapter10_lts/Port.lts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/examples/chapter10_lts/Port_recursive.lts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/examples/chapter10_lts/Port_recursive_overflow.lts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/examples/chapter10_lts/RendezvousEntryDemo.lts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/examples/chapter10_lts/SynchMsgAdditionallts.lts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/examples/chapter10_lts/SynchMsgDemo.lts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/examples/chapter10_lts/contents.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/examples/chapter11_lts/AbstractPrimes.lts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/examples/chapter11_lts/AnnouncerLstener.lts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/examples/chapter11_lts/BoxMover.lts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/examples/chapter11_lts/Primes.lts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/examples/chapter11_lts/SupervisorWorker-non-term.lts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/examples/chapter11_lts/SupervisorWorker-revised.lts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/examples/chapter11_lts/TupleSpace.lts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/examples/chapter11_lts/contents.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/examples/chapter12_lts/CountDown.lts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/examples/chapter12_lts/Doubleclick.lts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/examples/chapter12_lts/Interval.lts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/examples/chapter12_lts/Jitter.lts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/examples/chapter12_lts/Maximal_progress.lts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/examples/chapter12_lts/Parcel_router.lts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/examples/chapter12_lts/Space_invaders.lts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/examples/chapter12_lts/Timed_producer_consumer.lts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/examples/chapter12_lts/Timeout.lts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/examples/chapter12_lts/Tproducer_consumer_store.lts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/examples/chapter12_lts/contents.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/examples/chapter13_lts/bufferimpl.lts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/examples/chapter13_lts/contents.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/examples/chapter13_lts/notify_wait.lts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/examples/chapter13_lts/readwritepriorimpl.lts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/examples/chapter14_lts/DatabaseRing.lts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/examples/chapter14_lts/Mutex_fluent.lts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/examples/chapter14_lts/SingleLaneBridge_fluent.lts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/examples/chapter14_lts/contents.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/examples/chapter2_lts/Buff.lts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/examples/chapter2_lts/Coin.lts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/examples/chapter2_lts/Count.lts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/examples/chapter2_lts/Drinks.lts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/examples/chapter2_lts/Faulty.lts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/examples/chapter2_lts/OneShot.lts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/examples/chapter2_lts/Sum.lts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/examples/chapter2_lts/Switch.lts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/examples/chapter2_lts/Thread.lts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/examples/chapter2_lts/Writer.lts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/examples/chapter2_lts/contents.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/examples/chapter2_lts/countDown.lts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/examples/chapter2_lts/exercises/ex2-1-III.lts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/examples/chapter2_lts/exercises/ex2-1-VI.lts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/examples/chapter2_lts/trafficLight.lts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/examples/chapter3_lts/Bill_ben.lts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/examples/chapter3_lts/Factory.lts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/examples/chapter3_lts/Switches.lts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/examples/chapter3_lts/Twobuff.lts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/examples/chapter3_lts/User.lts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/examples/chapter3_lts/client_server.lts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/examples/chapter3_lts/client_serverv2.lts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/examples/chapter3_lts/clock_radio.lts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/examples/chapter3_lts/contents.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/examples/chapter3_lts/itch_scratch.lts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/examples/chapter3_lts/maker_user.lts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/examples/chapter3_lts/maker_userv2.lts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/examples/chapter3_lts/printer_share.lts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/examples/chapter3_lts/resource_share.lts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/examples/chapter3_lts/thread_demo.lts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/examples/chapter4_lts/Counter.lts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/examples/chapter4_lts/Counter_lockvar.lts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/examples/chapter4_lts/Display_Counter.lts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/examples/chapter4_lts/Garden.lts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/examples/chapter4_lts/Garden_lockvar.lts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/examples/chapter4_lts/contents.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/examples/chapter5_lts/BoundedBuffer.lts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/examples/chapter5_lts/BoundedBuffer_fixedSema.lts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/examples/chapter5_lts/BoundedBuffer_nestedSema.lts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/examples/chapter5_lts/Carpark.lts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/examples/chapter5_lts/SemaDemo.lts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/examples/chapter5_lts/Semaphore.lts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/examples/chapter5_lts/contents.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/examples/chapter6_lts/DeadlockFreePhilosophers.lts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/examples/chapter6_lts/DiningPhilosophers.lts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/examples/chapter6_lts/Maze.lts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/examples/chapter6_lts/Move.lts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/examples/chapter6_lts/contents.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/examples/chapter6_lts/printer-scanner-reorder.lts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/examples/chapter6_lts/printer-scanner-timeout.lts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/examples/chapter6_lts/printer-scanner.lts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/examples/chapter7_lts/Actuator.lts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/examples/chapter7_lts/Calm.lts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/examples/chapter7_lts/Coin.lts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/examples/chapter7_lts/CongestedSingleLaneBridge.lts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/examples/chapter7_lts/High_low.lts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/examples/chapter7_lts/Mutex_property.lts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/examples/chapter7_lts/Polite.lts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/examples/chapter7_lts/ReadersWriters.lts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/examples/chapter7_lts/ReadersWritersFair.lts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/examples/chapter7_lts/ReadersWritersPriority.lts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/examples/chapter7_lts/Safe actuator.lts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/examples/chapter7_lts/SingleLaneBridge.lts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/examples/chapter7_lts/SingleLaneBridgeDeadlock.lts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/examples/chapter7_lts/SingleLaneBridgeFair.lts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/examples/chapter7_lts/Twocoin.lts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/examples/chapter7_lts/contents.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/examples/chapter8_lts/CruiseControl.lts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/examples/chapter8_lts/RevisedCruiseControl.lts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/examples/chapter8_lts/contents.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/examples/chapter9_lts/Allocator.lts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/examples/chapter9_lts/GolfClub.lts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/examples/chapter9_lts/GolfClubBounded.lts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/examples/chapter9_lts/GolfClubFifo.lts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/examples/chapter9_lts/MasterSlave.lts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/examples/chapter9_lts/contents.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/examples/contents.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gov/nasa/ltl/graph/Degeneralize.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gov/nasa/ltl/graph/Edge.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gov/nasa/ltl/graph/Graph.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gov/nasa/ltl/graph/Node.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gov/nasa/ltl/graph/SCCReduction.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gov/nasa/ltl/graph/SFSReduction.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gov/nasa/ltl/graph/Simplify.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gov/nasa/ltl/graph/SuperSetReduction.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ic/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ic/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ic/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ic/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ic/doc/extension/Core.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ic/doc/extension/CoreMediator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ic/doc/extension/Exportable.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ic/doc/extension/IAnimator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ic/doc/extension/ILTSAPlugin.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ic/doc/extension/Initialisable.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ic/doc/extension/LTSA.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ic/doc/extension/LTSAButton.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ic/doc/extension/LTSAPlugin.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ic/doc/ltsa/common/CompileManager.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ic/doc/ltsa/common/ast/IAnd.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ic/doc/ltsa/common/ast/IBinExp.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ic/doc/ltsa/common/ast/IFalse.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ic/doc/ltsa/common/ast/IFormula.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ic/doc/ltsa/common/ast/INext.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ic/doc/ltsa/common/ast/INot.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ic/doc/ltsa/common/ast/IOr.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ic/doc/ltsa/common/ast/IProposition.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ic/doc/ltsa/common/ast/IRelease.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ic/doc/ltsa/common/ast/ITrue.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ic/doc/ltsa/common/ast/IUnExp.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ic/doc/ltsa/common/ast/IUntil.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ic/doc/ltsa/common/ast/IVisitor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ic/doc/ltsa/common/iface/IActionLabels.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ic/doc/ltsa/common/iface/IAlphabet.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ic/doc/ltsa/common/iface/IAnalysisFactory.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ic/doc/ltsa/common/iface/IAssertDefinition.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ic/doc/ltsa/common/iface/IAutomata.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ic/doc/ltsa/common/iface/ICompactState.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ic/doc/ltsa/common/iface/ICompilerFactory.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ic/doc/ltsa/common/iface/ICompositeState.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ic/doc/ltsa/common/iface/IDrawMachine.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ic/doc/ltsa/common/iface/IEventState.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ic/doc/ltsa/common/iface/IFluentTrace.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ic/doc/ltsa/common/iface/IFormulaFactory.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ic/doc/ltsa/common/iface/IFormulaSyntax.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ic/doc/ltsa/common/iface/ILTSCompiler.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ic/doc/ltsa/common/iface/ILex.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ic/doc/ltsa/common/iface/IMenuDefinition.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ic/doc/ltsa/common/iface/IPredicateDefinition.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ic/doc/ltsa/common/iface/IProgressCheck.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ic/doc/ltsa/common/iface/ISuperTrace.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ic/doc/ltsa/common/iface/ISymbol.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ic/doc/ltsa/common/iface/ITransitionPrinter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ic/doc/ltsa/common/iface/LTSInput.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ic/doc/ltsa/common/iface/LTSOutput.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ic/doc/ltsa/common/infra/CompositeInputSource.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ic/doc/ltsa/common/infra/Diagnostics.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ic/doc/ltsa/common/infra/EventClient.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ic/doc/ltsa/common/infra/EventManager.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ic/doc/ltsa/common/infra/InputSource.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ic/doc/ltsa/common/infra/LTSEvent.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ic/doc/ltsa/common/infra/LTSException.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ic/doc/ltsa/common/infra/MyList.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ic/doc/ltsa/common/infra/MyListEntry.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ic/doc/ltsa/common/infra/OutputBuffer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ic/doc/ltsa/common/infra/Relation.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ic/doc/ltsa/common/infra/StackCheck.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ic/doc/ltsa/frontend/HPWindow.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ic/doc/ltsa/frontend/custom/AnimationAction.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ic/doc/ltsa/frontend/custom/AnimationControl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ic/doc/ltsa/frontend/custom/AnimationMessage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ic/doc/ltsa/frontend/custom/ControlActionRegistry.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ic/doc/ltsa/frontend/custom/CustomAnimator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ic/doc/ltsa/frontend/custom/ImmutableList.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ic/doc/ltsa/frontend/custom/OutputActionRegistry.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ic/doc/ltsa/frontend/custom/SceneAnimationController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ic/doc/ltsa/frontend/custom/SceneAnimator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ic/doc/ltsa/frontend/dclap/Gr2PICT.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ic/doc/ltsa/frontend/dclap/QD.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ic/doc/ltsa/frontend/doc/Bullet7.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ic/doc/ltsa/frontend/doc/p2hnext.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ic/doc/ltsa/frontend/doc/p2hprev.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ic/doc/ltsa/frontend/doc/p2hup.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ic/doc/ltsa/frontend/editor/ColoredContext.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ic/doc/ltsa/frontend/editor/ColoredDocument.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ic/doc/ltsa/frontend/editor/ColoredEditorKit.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ic/doc/ltsa/frontend/editor/ColoredScanner.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ic/doc/ltsa/frontend/gui/AlphabetWindow.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ic/doc/ltsa/frontend/gui/AnimWindow.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ic/doc/ltsa/frontend/gui/AppletButton.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ic/doc/ltsa/frontend/gui/Examples.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ic/doc/ltsa/frontend/gui/LTSABlanker.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ic/doc/ltsa/frontend/gui/LTSASplash.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ic/doc/ltsa/frontend/gui/LTSCanvas.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ic/doc/ltsa/frontend/gui/LTSDrawWindow.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ic/doc/ltsa/frontend/gui/PrintWindow.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ic/doc/ltsa/frontend/gui/RunMenu.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ic/doc/ltsa/frontend/gui/icon/alphabet.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ic/doc/ltsa/frontend/gui/icon/blanker.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ic/doc/ltsa/frontend/gui/icon/collapse.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ic/doc/ltsa/frontend/gui/icon/collapsed.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ic/doc/ltsa/frontend/gui/icon/compile.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ic/doc/ltsa/frontend/gui/icon/compose.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ic/doc/ltsa/frontend/gui/icon/compressHorizontal.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ic/doc/ltsa/frontend/gui/icon/compressVertical.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ic/doc/ltsa/frontend/gui/icon/copy.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ic/doc/ltsa/frontend/gui/icon/cut.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ic/doc/ltsa/frontend/gui/icon/draw.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ic/doc/ltsa/frontend/gui/icon/expand.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ic/doc/ltsa/frontend/gui/icon/expanded.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ic/doc/ltsa/frontend/gui/icon/minimize.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ic/doc/ltsa/frontend/gui/icon/new.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ic/doc/ltsa/frontend/gui/icon/open.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ic/doc/ltsa/frontend/gui/icon/parse.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ic/doc/ltsa/frontend/gui/icon/paste.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ic/doc/ltsa/frontend/gui/icon/progress.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ic/doc/ltsa/frontend/gui/icon/redo.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ic/doc/ltsa/frontend/gui/icon/safety.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ic/doc/ltsa/frontend/gui/icon/save.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ic/doc/ltsa/frontend/gui/icon/splash.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ic/doc/ltsa/frontend/gui/icon/stop.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ic/doc/ltsa/frontend/gui/icon/stretchHorizontal.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ic/doc/ltsa/frontend/gui/icon/stretchVertical.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ic/doc/ltsa/frontend/gui/icon/undo.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ic/doc/ltsa/lts/ActionLabels.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ic/doc/ltsa/lts/Alphabet.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ic/doc/ltsa/lts/Analyser.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ic/doc/ltsa/lts/AnalysisFactory.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ic/doc/ltsa/lts/AutCompactState.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ic/doc/ltsa/lts/ChoiceElement.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ic/doc/ltsa/lts/CompactState.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ic/doc/ltsa/lts/CompilerFactory.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ic/doc/ltsa/lts/CompositeState.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ic/doc/ltsa/lts/CompositionExpression.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ic/doc/ltsa/lts/Counter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ic/doc/ltsa/lts/CounterExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ic/doc/ltsa/lts/Declaration.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ic/doc/ltsa/lts/Determinizer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ic/doc/ltsa/lts/DrawMachine.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ic/doc/ltsa/lts/EventState.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ic/doc/ltsa/lts/Expression.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ic/doc/ltsa/lts/LTSCompiler.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ic/doc/ltsa/lts/LTSInputString.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ic/doc/ltsa/lts/LabelSet.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ic/doc/ltsa/lts/Lex.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ic/doc/ltsa/lts/MenuDefinition.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ic/doc/ltsa/lts/Minimiser.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ic/doc/ltsa/lts/MyHash.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ic/doc/ltsa/lts/MyHashProg.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ic/doc/ltsa/lts/MyHashProgEntry.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ic/doc/ltsa/lts/MyHashQueue.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ic/doc/ltsa/lts/MyHashStack.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ic/doc/ltsa/lts/MyIntHash.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ic/doc/ltsa/lts/MyStack.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ic/doc/ltsa/lts/PartialOrder.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ic/doc/ltsa/lts/PrintTransitions.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ic/doc/ltsa/lts/ProcessSpec.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ic/doc/ltsa/lts/ProgressCheck.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ic/doc/ltsa/lts/ProgressDefinition.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ic/doc/ltsa/lts/ProgressTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ic/doc/ltsa/lts/Range.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ic/doc/ltsa/lts/RelabelDefn.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ic/doc/ltsa/lts/SeqProcessRef.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ic/doc/ltsa/lts/StackChecker.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ic/doc/ltsa/lts/StateCodec.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ic/doc/ltsa/lts/StateDefn.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ic/doc/ltsa/lts/StateExpr.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ic/doc/ltsa/lts/StateMachine.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ic/doc/ltsa/lts/SuperTrace.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ic/doc/ltsa/lts/Symbol.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ic/doc/ltsa/lts/SymbolTable.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ic/doc/ltsa/lts/Transition.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ic/doc/ltsa/lts/Value.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ic/doc/ltsa/lts/ltl/AssertDefinition.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ic/doc/ltsa/lts/ltl/Converter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ic/doc/ltsa/lts/ltl/FluentTrace.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ic/doc/ltsa/lts/ltl/Formula.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ic/doc/ltsa/lts/ltl/FormulaFactory.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ic/doc/ltsa/lts/ltl/FormulaSyntax.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ic/doc/ltsa/lts/ltl/GeneralizedBuchiAutomata.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ic/doc/ltsa/lts/ltl/LTLparser.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ic/doc/ltsa/lts/ltl/LabelFactory.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ic/doc/ltsa/lts/ltl/Node.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ic/doc/ltsa/lts/ltl/PredicateDefinition.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ic/ic.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ltsa_code.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/moti_example.lts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/moti_example1.lts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/ltsa_code/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/ltsa_code/.idea/libraries/lib.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/ltsa_code/.idea/libraries/magicbeans_beta2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/ltsa_code/.idea/libraries/nasa_.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/ltsa_code/.idea/libraries/scenebeans.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/ltsa_code/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/ltsa_code/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/ltsa_code/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/ltsa_code/Algorithm.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/ltsa_code/Algorithm_.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/ltsa_code/LTSFunction$myLTSIO.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/ltsa_code/LTSFunction.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/ltsa_code/LTS_to_KS.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/ltsa_code/Main.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/ltsa_code/SequenceGenerator.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/ltsa_code/algorithm.lts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/ltsa_code/com/META-INF/MANIFEST.MF" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/ltsa_code/com/chatley/magicbeans/Adder.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/ltsa_code/com/chatley/magicbeans/Binding.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/ltsa_code/com/chatley/magicbeans/ByteCodeChecker.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/ltsa_code/com/chatley/magicbeans/Component-withUpdate" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/ltsa_code/com/chatley/magicbeans/Component.281103" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/ltsa_code/com/chatley/magicbeans/Component.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/ltsa_code/com/chatley/magicbeans/ConfigurationManager.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/ltsa_code/com/chatley/magicbeans/DirectoryMonitor.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/ltsa_code/com/chatley/magicbeans/DontBindNotifiable.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/ltsa_code/com/chatley/magicbeans/FSPDefinition.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/ltsa_code/com/chatley/magicbeans/Hole.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/ltsa_code/com/chatley/magicbeans/JarClassLoader.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/ltsa_code/com/chatley/magicbeans/JarResources.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/ltsa_code/com/chatley/magicbeans/Logger.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/ltsa_code/com/chatley/magicbeans/MultiClassLoader.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/ltsa_code/com/chatley/magicbeans/MultiMethod.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/ltsa_code/com/chatley/magicbeans/Notifiable.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/ltsa_code/com/chatley/magicbeans/NullLogger.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/ltsa_code/com/chatley/magicbeans/ObserverList.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/ltsa_code/com/chatley/magicbeans/Pair.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/ltsa_code/com/chatley/magicbeans/Peg.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/ltsa_code/com/chatley/magicbeans/PluginInvocationHandler.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/ltsa_code/com/chatley/magicbeans/PluginManager$DarwinGenerator.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/ltsa_code/com/chatley/magicbeans/PluginManager.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/ltsa_code/com/chatley/magicbeans/Strategy.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/ltsa_code/com/chatley/magicbeans/SystemOutLogger.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/ltsa_code/examples.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/ltsa_code/examples/chapter10_lts/AsynchMsgDemo.lts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/ltsa_code/examples/chapter10_lts/Port.lts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/ltsa_code/examples/chapter10_lts/Port_recursive.lts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/ltsa_code/examples/chapter10_lts/Port_recursive_overflow.lts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/ltsa_code/examples/chapter10_lts/RendezvousEntryDemo.lts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/ltsa_code/examples/chapter10_lts/SynchMsgAdditionallts.lts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/ltsa_code/examples/chapter10_lts/SynchMsgDemo.lts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/ltsa_code/examples/chapter10_lts/contents.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/ltsa_code/examples/chapter11_lts/AbstractPrimes.lts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/ltsa_code/examples/chapter11_lts/AnnouncerLstener.lts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/ltsa_code/examples/chapter11_lts/BoxMover.lts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/ltsa_code/examples/chapter11_lts/Primes.lts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/ltsa_code/examples/chapter11_lts/SupervisorWorker-non-term.lts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/ltsa_code/examples/chapter11_lts/SupervisorWorker-revised.lts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/ltsa_code/examples/chapter11_lts/TupleSpace.lts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/ltsa_code/examples/chapter11_lts/contents.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/ltsa_code/examples/chapter12_lts/CountDown.lts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/ltsa_code/examples/chapter12_lts/Doubleclick.lts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/ltsa_code/examples/chapter12_lts/Interval.lts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/ltsa_code/examples/chapter12_lts/Jitter.lts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/ltsa_code/examples/chapter12_lts/Maximal_progress.lts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/ltsa_code/examples/chapter12_lts/Parcel_router.lts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/ltsa_code/examples/chapter12_lts/Space_invaders.lts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/ltsa_code/examples/chapter12_lts/Timed_producer_consumer.lts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/ltsa_code/examples/chapter12_lts/Timeout.lts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/ltsa_code/examples/chapter12_lts/Tproducer_consumer_store.lts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/ltsa_code/examples/chapter12_lts/contents.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/ltsa_code/examples/chapter13_lts/bufferimpl.lts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/ltsa_code/examples/chapter13_lts/contents.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/ltsa_code/examples/chapter13_lts/notify_wait.lts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/ltsa_code/examples/chapter13_lts/readwritepriorimpl.lts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/ltsa_code/examples/chapter14_lts/DatabaseRing.lts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/ltsa_code/examples/chapter14_lts/Mutex_fluent.lts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/ltsa_code/examples/chapter14_lts/SingleLaneBridge_fluent.lts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/ltsa_code/examples/chapter14_lts/contents.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/ltsa_code/examples/chapter2_lts/Buff.lts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/ltsa_code/examples/chapter2_lts/Coin.lts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/ltsa_code/examples/chapter2_lts/Count.lts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/ltsa_code/examples/chapter2_lts/Drinks.lts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/ltsa_code/examples/chapter2_lts/Faulty.lts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/ltsa_code/examples/chapter2_lts/OneShot.lts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/ltsa_code/examples/chapter2_lts/Sum.lts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/ltsa_code/examples/chapter2_lts/Switch.lts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/ltsa_code/examples/chapter2_lts/Thread.lts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/ltsa_code/examples/chapter2_lts/Writer.lts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/ltsa_code/examples/chapter2_lts/contents.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/ltsa_code/examples/chapter2_lts/countDown.lts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/ltsa_code/examples/chapter2_lts/exercises/ex2-1-III.lts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/ltsa_code/examples/chapter2_lts/exercises/ex2-1-VI.lts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/ltsa_code/examples/chapter2_lts/trafficLight.lts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/ltsa_code/examples/chapter3_lts/Bill_ben.lts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/ltsa_code/examples/chapter3_lts/Factory.lts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/ltsa_code/examples/chapter3_lts/Switches.lts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/ltsa_code/examples/chapter3_lts/Twobuff.lts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/ltsa_code/examples/chapter3_lts/User.lts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/ltsa_code/examples/chapter3_lts/client_server.lts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/ltsa_code/examples/chapter3_lts/client_serverv2.lts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/ltsa_code/examples/chapter3_lts/clock_radio.lts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/ltsa_code/examples/chapter3_lts/contents.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/ltsa_code/examples/chapter3_lts/itch_scratch.lts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/ltsa_code/examples/chapter3_lts/maker_user.lts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/ltsa_code/examples/chapter3_lts/maker_userv2.lts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/ltsa_code/examples/chapter3_lts/printer_share.lts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/ltsa_code/examples/chapter3_lts/resource_share.lts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/ltsa_code/examples/chapter3_lts/thread_demo.lts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/ltsa_code/examples/chapter4_lts/Counter.lts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/ltsa_code/examples/chapter4_lts/Counter_lockvar.lts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/ltsa_code/examples/chapter4_lts/Display_Counter.lts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/ltsa_code/examples/chapter4_lts/Garden.lts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/ltsa_code/examples/chapter4_lts/Garden_lockvar.lts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/ltsa_code/examples/chapter4_lts/contents.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/ltsa_code/examples/chapter5_lts/BoundedBuffer.lts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/ltsa_code/examples/chapter5_lts/BoundedBuffer_fixedSema.lts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/ltsa_code/examples/chapter5_lts/BoundedBuffer_nestedSema.lts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/ltsa_code/examples/chapter5_lts/Carpark.lts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/ltsa_code/examples/chapter5_lts/SemaDemo.lts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/ltsa_code/examples/chapter5_lts/Semaphore.lts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/ltsa_code/examples/chapter5_lts/contents.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/ltsa_code/examples/chapter6_lts/DeadlockFreePhilosophers.lts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/ltsa_code/examples/chapter6_lts/DiningPhilosophers.lts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/ltsa_code/examples/chapter6_lts/Maze.lts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/ltsa_code/examples/chapter6_lts/Move.lts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/ltsa_code/examples/chapter6_lts/contents.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/ltsa_code/examples/chapter6_lts/printer-scanner-reorder.lts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/ltsa_code/examples/chapter6_lts/printer-scanner-timeout.lts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/ltsa_code/examples/chapter6_lts/printer-scanner.lts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/ltsa_code/examples/chapter7_lts/Actuator.lts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/ltsa_code/examples/chapter7_lts/Calm.lts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/ltsa_code/examples/chapter7_lts/Coin.lts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/ltsa_code/examples/chapter7_lts/CongestedSingleLaneBridge.lts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/ltsa_code/examples/chapter7_lts/High_low.lts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/ltsa_code/examples/chapter7_lts/Mutex_property.lts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/ltsa_code/examples/chapter7_lts/Polite.lts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/ltsa_code/examples/chapter7_lts/ReadersWriters.lts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/ltsa_code/examples/chapter7_lts/ReadersWritersFair.lts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/ltsa_code/examples/chapter7_lts/ReadersWritersPriority.lts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/ltsa_code/examples/chapter7_lts/Safe actuator.lts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/ltsa_code/examples/chapter7_lts/SingleLaneBridge.lts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/ltsa_code/examples/chapter7_lts/SingleLaneBridgeDeadlock.lts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/ltsa_code/examples/chapter7_lts/SingleLaneBridgeFair.lts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/ltsa_code/examples/chapter7_lts/Twocoin.lts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/ltsa_code/examples/chapter7_lts/contents.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/ltsa_code/examples/chapter8_lts/CruiseControl.lts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/ltsa_code/examples/chapter8_lts/RevisedCruiseControl.lts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/ltsa_code/examples/chapter8_lts/contents.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/ltsa_code/examples/chapter9_lts/Allocator.lts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/ltsa_code/examples/chapter9_lts/GolfClub.lts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/ltsa_code/examples/chapter9_lts/GolfClubBounded.lts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/ltsa_code/examples/chapter9_lts/GolfClubFifo.lts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/ltsa_code/examples/chapter9_lts/MasterSlave.lts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/ltsa_code/examples/chapter9_lts/contents.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/ltsa_code/examples/contents.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/ltsa_code/gov/nasa/ltl/graph/Degeneralize.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/ltsa_code/gov/nasa/ltl/graph/Edge.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/ltsa_code/gov/nasa/ltl/graph/Graph.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/ltsa_code/gov/nasa/ltl/graph/Node.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/ltsa_code/gov/nasa/ltl/graph/SCCReduction.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/ltsa_code/gov/nasa/ltl/graph/SFSReduction.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/ltsa_code/gov/nasa/ltl/graph/Simplify.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/ltsa_code/gov/nasa/ltl/graph/SuperSetReduction.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/ltsa_code/ic/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/ltsa_code/ic/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/ltsa_code/ic/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/ltsa_code/ic/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/ltsa_code/ic/doc/extension/Core.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/ltsa_code/ic/doc/extension/CoreMediator.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/ltsa_code/ic/doc/extension/Exportable.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/ltsa_code/ic/doc/extension/IAnimator.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/ltsa_code/ic/doc/extension/ILTSAPlugin.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/ltsa_code/ic/doc/extension/Initialisable.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/ltsa_code/ic/doc/extension/LTSA.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/ltsa_code/ic/doc/extension/LTSAButton.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/ltsa_code/ic/doc/extension/LTSAPlugin.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/ltsa_code/ic/doc/ltsa/common/CompileManager.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/ltsa_code/ic/doc/ltsa/common/ast/IAnd.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/ltsa_code/ic/doc/ltsa/common/ast/IBinExp.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/ltsa_code/ic/doc/ltsa/common/ast/IFalse.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/ltsa_code/ic/doc/ltsa/common/ast/IFormula.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/ltsa_code/ic/doc/ltsa/common/ast/INext.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/ltsa_code/ic/doc/ltsa/common/ast/INot.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/ltsa_code/ic/doc/ltsa/common/ast/IOr.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/ltsa_code/ic/doc/ltsa/common/ast/IProposition.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/ltsa_code/ic/doc/ltsa/common/ast/IRelease.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/ltsa_code/ic/doc/ltsa/common/ast/ITrue.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/ltsa_code/ic/doc/ltsa/common/ast/IUnExp.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/ltsa_code/ic/doc/ltsa/common/ast/IUntil.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/ltsa_code/ic/doc/ltsa/common/ast/IVisitor.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/ltsa_code/ic/doc/ltsa/common/iface/IActionLabels.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/ltsa_code/ic/doc/ltsa/common/iface/IAlphabet.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/ltsa_code/ic/doc/ltsa/common/iface/IAnalysisFactory.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/ltsa_code/ic/doc/ltsa/common/iface/IAssertDefinition.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/ltsa_code/ic/doc/ltsa/common/iface/IAutomata.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/ltsa_code/ic/doc/ltsa/common/iface/ICompactState.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/ltsa_code/ic/doc/ltsa/common/iface/ICompilerFactory.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/ltsa_code/ic/doc/ltsa/common/iface/ICompositeState.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/ltsa_code/ic/doc/ltsa/common/iface/IDrawMachine.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/ltsa_code/ic/doc/ltsa/common/iface/IEventState.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/ltsa_code/ic/doc/ltsa/common/iface/IFluentTrace.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/ltsa_code/ic/doc/ltsa/common/iface/IFormulaFactory.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/ltsa_code/ic/doc/ltsa/common/iface/IFormulaSyntax.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/ltsa_code/ic/doc/ltsa/common/iface/ILTSCompiler.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/ltsa_code/ic/doc/ltsa/common/iface/ILex.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/ltsa_code/ic/doc/ltsa/common/iface/IMenuDefinition.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/ltsa_code/ic/doc/ltsa/common/iface/IPredicateDefinition.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/ltsa_code/ic/doc/ltsa/common/iface/IProgressCheck.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/ltsa_code/ic/doc/ltsa/common/iface/ISuperTrace.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/ltsa_code/ic/doc/ltsa/common/iface/ISymbol.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/ltsa_code/ic/doc/ltsa/common/iface/ITransitionPrinter.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/ltsa_code/ic/doc/ltsa/common/iface/LTSInput.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/ltsa_code/ic/doc/ltsa/common/iface/LTSOutput.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/ltsa_code/ic/doc/ltsa/common/infra/CompositeInputSource.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/ltsa_code/ic/doc/ltsa/common/infra/Diagnostics.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/ltsa_code/ic/doc/ltsa/common/infra/EventClient.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/ltsa_code/ic/doc/ltsa/common/infra/EventManager.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/ltsa_code/ic/doc/ltsa/common/infra/InputSource.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/ltsa_code/ic/doc/ltsa/common/infra/LTSEvent.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/ltsa_code/ic/doc/ltsa/common/infra/LTSException.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/ltsa_code/ic/doc/ltsa/common/infra/MyList.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/ltsa_code/ic/doc/ltsa/common/infra/MyListEntry.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/ltsa_code/ic/doc/ltsa/common/infra/OutputBuffer.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/ltsa_code/ic/doc/ltsa/common/infra/Relation.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/ltsa_code/ic/doc/ltsa/common/infra/StackCheck.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/ltsa_code/ic/doc/ltsa/frontend/HPWindow$1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/ltsa_code/ic/doc/ltsa/frontend/HPWindow$BlankAction.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/ltsa_code/ic/doc/ltsa/frontend/HPWindow$CloseWindow.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/ltsa_code/ic/doc/ltsa/frontend/HPWindow$DoAction.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/ltsa_code/ic/doc/ltsa/frontend/HPWindow$EditCopyAction.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/ltsa_code/ic/doc/ltsa/frontend/HPWindow$EditCutAction.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/ltsa_code/ic/doc/ltsa/frontend/HPWindow$EditPasteAction.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/ltsa_code/ic/doc/ltsa/frontend/HPWindow$ExecuteAction.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/ltsa_code/ic/doc/ltsa/frontend/HPWindow$ExitFileAction.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/ltsa_code/ic/doc/ltsa/frontend/HPWindow$ExportFileAction.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/ltsa_code/ic/doc/ltsa/frontend/HPWindow$HelpAboutAction.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/ltsa_code/ic/doc/ltsa/frontend/HPWindow$HelpManualAction.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/ltsa_code/ic/doc/ltsa/frontend/HPWindow$Hyperactive.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/ltsa_code/ic/doc/ltsa/frontend/HPWindow$LivenessAction.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/ltsa_code/ic/doc/ltsa/frontend/HPWindow$NewFileAction.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/ltsa_code/ic/doc/ltsa/frontend/HPWindow$OpenFileAction.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/ltsa_code/ic/doc/ltsa/frontend/HPWindow$OptionAction.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/ltsa_code/ic/doc/ltsa/frontend/HPWindow$OutputAppend.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/ltsa_code/ic/doc/ltsa/frontend/HPWindow$OutputClear.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/ltsa_code/ic/doc/ltsa/frontend/HPWindow$OutputShow.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/ltsa_code/ic/doc/ltsa/frontend/HPWindow$RedoAction.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/ltsa_code/ic/doc/ltsa/frontend/HPWindow$RequestFocus.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/ltsa_code/ic/doc/ltsa/frontend/HPWindow$SaveAsFileAction.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/ltsa_code/ic/doc/ltsa/frontend/HPWindow$SaveFileAction.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/ltsa_code/ic/doc/ltsa/frontend/HPWindow$ScheduleOpenFile.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/ltsa_code/ic/doc/ltsa/frontend/HPWindow$StopAction.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/ltsa_code/ic/doc/ltsa/frontend/HPWindow$SuperTraceOptionListener.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/ltsa_code/ic/doc/ltsa/frontend/HPWindow$TabChange.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/ltsa_code/ic/doc/ltsa/frontend/HPWindow$TargetAction.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/ltsa_code/ic/doc/ltsa/frontend/HPWindow$ToggleWindowAction.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/ltsa_code/ic/doc/ltsa/frontend/HPWindow$UndoAction.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/ltsa_code/ic/doc/ltsa/frontend/HPWindow$UndoHandler.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/ltsa_code/ic/doc/ltsa/frontend/HPWindow$WinAlphabetAction.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/ltsa_code/ic/doc/ltsa/frontend/HPWindow$WinDrawAction.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/ltsa_code/ic/doc/ltsa/frontend/HPWindow$WinHiddenAction.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/ltsa_code/ic/doc/ltsa/frontend/HPWindow$WinPrintAction.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/ltsa_code/ic/doc/ltsa/frontend/HPWindow.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/ltsa_code/ic/doc/ltsa/frontend/custom/AnimationAction.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/ltsa_code/ic/doc/ltsa/frontend/custom/AnimationControl.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/ltsa_code/ic/doc/ltsa/frontend/custom/AnimationMessage.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/ltsa_code/ic/doc/ltsa/frontend/custom/ControlActionRegistry.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/ltsa_code/ic/doc/ltsa/frontend/custom/CustomAnimator.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/ltsa_code/ic/doc/ltsa/frontend/custom/ImmutableList.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/ltsa_code/ic/doc/ltsa/frontend/custom/ImmutableListEnumerator.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/ltsa_code/ic/doc/ltsa/frontend/custom/OutputActionRegistry.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/ltsa_code/ic/doc/ltsa/frontend/custom/SceneAnimationController$AnimationException.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/ltsa_code/ic/doc/ltsa/frontend/custom/SceneAnimationController.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/ltsa_code/ic/doc/ltsa/frontend/custom/SceneAnimator$1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/ltsa_code/ic/doc/ltsa/frontend/custom/SceneAnimator$ButtonAction.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/ltsa_code/ic/doc/ltsa/frontend/custom/SceneAnimator$ButtonClearAction.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/ltsa_code/ic/doc/ltsa/frontend/custom/SceneAnimator$CheckItem.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/ltsa_code/ic/doc/ltsa/frontend/custom/SceneAnimator$CommandAction.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/ltsa_code/ic/doc/ltsa/frontend/custom/SceneAnimator$MyWindow.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/ltsa_code/ic/doc/ltsa/frontend/custom/SceneAnimator$RunMenu.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/ltsa_code/ic/doc/ltsa/frontend/custom/SceneAnimator.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/ltsa_code/ic/doc/ltsa/frontend/dclap/Gr2PICT.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/ltsa_code/ic/doc/ltsa/frontend/dclap/QD.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/ltsa_code/ic/doc/ltsa/frontend/dclap/QuickDrawFont.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/ltsa_code/ic/doc/ltsa/frontend/doc/Bullet7.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/ltsa_code/ic/doc/ltsa/frontend/doc/p2hnext.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/ltsa_code/ic/doc/ltsa/frontend/doc/p2hprev.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/ltsa_code/ic/doc/ltsa/frontend/doc/p2hup.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/ltsa_code/ic/doc/ltsa/frontend/editor/ColoredContext$ColoredView.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/ltsa_code/ic/doc/ltsa/frontend/editor/ColoredContext.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/ltsa_code/ic/doc/ltsa/frontend/editor/ColoredDocument.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/ltsa_code/ic/doc/ltsa/frontend/editor/ColoredEditorKit.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/ltsa_code/ic/doc/ltsa/frontend/editor/ColoredScanner.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/ltsa_code/ic/doc/ltsa/frontend/gui/AlphabetWindow$1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/ltsa_code/ic/doc/ltsa/frontend/gui/AlphabetWindow$ExpandLeastAction.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/ltsa_code/ic/doc/ltsa/frontend/gui/AlphabetWindow$ExpandLessAction.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/ltsa_code/ic/doc/ltsa/frontend/gui/AlphabetWindow$ExpandMoreAction.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/ltsa_code/ic/doc/ltsa/frontend/gui/AlphabetWindow$ExpandMostAction.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/ltsa_code/ic/doc/ltsa/frontend/gui/AlphabetWindow$PrintAction.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/ltsa_code/ic/doc/ltsa/frontend/gui/AlphabetWindow.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/ltsa_code/ic/doc/ltsa/frontend/gui/AnimWindow$AnimAction.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/ltsa_code/ic/doc/ltsa/frontend/gui/AnimWindow.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/ltsa_code/ic/doc/ltsa/frontend/gui/AppletButton$ButtonAction.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/ltsa_code/ic/doc/ltsa/frontend/gui/AppletButton.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/ltsa_code/ic/doc/ltsa/frontend/gui/Examples$ExampleAction.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/ltsa_code/ic/doc/ltsa/frontend/gui/Examples.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/ltsa_code/ic/doc/ltsa/frontend/gui/LTSABlanker$Mouse.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/ltsa_code/ic/doc/ltsa/frontend/gui/LTSABlanker.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/ltsa_code/ic/doc/ltsa/frontend/gui/LTSASplash$Mouse.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/ltsa_code/ic/doc/ltsa/frontend/gui/LTSASplash.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/ltsa_code/ic/doc/ltsa/frontend/gui/LTSCanvas$MyMouse.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/ltsa_code/ic/doc/ltsa/frontend/gui/LTSCanvas.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/ltsa_code/ic/doc/ltsa/frontend/gui/LTSDrawWindow$1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/ltsa_code/ic/doc/ltsa/frontend/gui/LTSDrawWindow$HStretchAction.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/ltsa_code/ic/doc/ltsa/frontend/gui/LTSDrawWindow$KeyPress.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/ltsa_code/ic/doc/ltsa/frontend/gui/LTSDrawWindow$MyCellRenderer.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/ltsa_code/ic/doc/ltsa/frontend/gui/LTSDrawWindow$MyMouse.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/ltsa_code/ic/doc/ltsa/frontend/gui/LTSDrawWindow$PrintAction.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/ltsa_code/ic/doc/ltsa/frontend/gui/LTSDrawWindow$VStretchAction.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/ltsa_code/ic/doc/ltsa/frontend/gui/LTSDrawWindow.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/ltsa_code/ic/doc/ltsa/frontend/gui/PrintWindow$PrintAction.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/ltsa_code/ic/doc/ltsa/frontend/gui/PrintWindow.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/ltsa_code/ic/doc/ltsa/frontend/gui/RunMenu.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/ltsa_code/ic/doc/ltsa/frontend/gui/icon/alphabet.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/ltsa_code/ic/doc/ltsa/frontend/gui/icon/blanker.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/ltsa_code/ic/doc/ltsa/frontend/gui/icon/collapse.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/ltsa_code/ic/doc/ltsa/frontend/gui/icon/collapsed.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/ltsa_code/ic/doc/ltsa/frontend/gui/icon/compile.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/ltsa_code/ic/doc/ltsa/frontend/gui/icon/compose.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/ltsa_code/ic/doc/ltsa/frontend/gui/icon/compressHorizontal.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/ltsa_code/ic/doc/ltsa/frontend/gui/icon/compressVertical.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/ltsa_code/ic/doc/ltsa/frontend/gui/icon/copy.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/ltsa_code/ic/doc/ltsa/frontend/gui/icon/cut.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/ltsa_code/ic/doc/ltsa/frontend/gui/icon/draw.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/ltsa_code/ic/doc/ltsa/frontend/gui/icon/expand.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/ltsa_code/ic/doc/ltsa/frontend/gui/icon/expanded.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/ltsa_code/ic/doc/ltsa/frontend/gui/icon/minimize.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/ltsa_code/ic/doc/ltsa/frontend/gui/icon/new.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/ltsa_code/ic/doc/ltsa/frontend/gui/icon/open.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/ltsa_code/ic/doc/ltsa/frontend/gui/icon/parse.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/ltsa_code/ic/doc/ltsa/frontend/gui/icon/paste.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/ltsa_code/ic/doc/ltsa/frontend/gui/icon/progress.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/ltsa_code/ic/doc/ltsa/frontend/gui/icon/redo.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/ltsa_code/ic/doc/ltsa/frontend/gui/icon/safety.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/ltsa_code/ic/doc/ltsa/frontend/gui/icon/save.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/ltsa_code/ic/doc/ltsa/frontend/gui/icon/splash.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/ltsa_code/ic/doc/ltsa/frontend/gui/icon/stop.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/ltsa_code/ic/doc/ltsa/frontend/gui/icon/stretchHorizontal.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/ltsa_code/ic/doc/ltsa/frontend/gui/icon/stretchVertical.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/ltsa_code/ic/doc/ltsa/frontend/gui/icon/undo.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/ltsa_code/ic/doc/ltsa/lts/ActionExpr.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/ltsa_code/ic/doc/ltsa/lts/ActionLabels.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/ltsa_code/ic/doc/ltsa/lts/ActionName.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/ltsa_code/ic/doc/ltsa/lts/ActionRange.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/ltsa_code/ic/doc/ltsa/lts/ActionSet.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/ltsa_code/ic/doc/ltsa/lts/ActionSetExpr.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/ltsa_code/ic/doc/ltsa/lts/ActionVarRange.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/ltsa_code/ic/doc/ltsa/lts/ActionVarSet.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/ltsa_code/ic/doc/ltsa/lts/Alphabet.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/ltsa_code/ic/doc/ltsa/lts/Analyser.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/ltsa_code/ic/doc/ltsa/lts/AnalysisFactory.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/ltsa_code/ic/doc/ltsa/lts/AutCompactState.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/ltsa_code/ic/doc/ltsa/lts/ChoiceElement.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/ltsa_code/ic/doc/ltsa/lts/CompactState.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/ltsa_code/ic/doc/ltsa/lts/CompilerFactory.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/ltsa_code/ic/doc/ltsa/lts/CompositeBody.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/ltsa_code/ic/doc/ltsa/lts/CompositeState.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/ltsa_code/ic/doc/ltsa/lts/CompositionExpression.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/ltsa_code/ic/doc/ltsa/lts/Counter.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/ltsa_code/ic/doc/ltsa/lts/CounterExample.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/ltsa_code/ic/doc/ltsa/lts/Declaration.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/ltsa_code/ic/doc/ltsa/lts/Determinizer.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/ltsa_code/ic/doc/ltsa/lts/DrawMachine.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/ltsa_code/ic/doc/ltsa/lts/EventState.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/ltsa_code/ic/doc/ltsa/lts/EventStateEnumerator.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/ltsa_code/ic/doc/ltsa/lts/Expression.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/ltsa_code/ic/doc/ltsa/lts/LTSCompiler.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/ltsa_code/ic/doc/ltsa/lts/LTSInputString.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/ltsa_code/ic/doc/ltsa/lts/LabelSet.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/ltsa_code/ic/doc/ltsa/lts/Lex.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/ltsa_code/ic/doc/ltsa/lts/MenuDefinition$AnimationPart.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/ltsa_code/ic/doc/ltsa/lts/MenuDefinition.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/ltsa_code/ic/doc/ltsa/lts/Minimiser.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/ltsa_code/ic/doc/ltsa/lts/MyHash.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/ltsa_code/ic/doc/ltsa/lts/MyHashEntry.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/ltsa_code/ic/doc/ltsa/lts/MyHashProg.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/ltsa_code/ic/doc/ltsa/lts/MyHashProgEntry.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/ltsa_code/ic/doc/ltsa/lts/MyHashQueue.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/ltsa_code/ic/doc/ltsa/lts/MyHashQueueEntry.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/ltsa_code/ic/doc/ltsa/lts/MyHashStack.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/ltsa_code/ic/doc/ltsa/lts/MyHashStackEntry.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/ltsa_code/ic/doc/ltsa/lts/MyIntHash.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/ltsa_code/ic/doc/ltsa/lts/MyIntHashEntry.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/ltsa_code/ic/doc/ltsa/lts/MyStack.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/ltsa_code/ic/doc/ltsa/lts/PartialOrder.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/ltsa_code/ic/doc/ltsa/lts/PrefixTree.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/ltsa_code/ic/doc/ltsa/lts/PrintTransitions.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/ltsa_code/ic/doc/ltsa/lts/ProcessRef.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/ltsa_code/ic/doc/ltsa/lts/ProcessSpec.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/ltsa_code/ic/doc/ltsa/lts/ProgressCheck.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/ltsa_code/ic/doc/ltsa/lts/ProgressDefinition.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/ltsa_code/ic/doc/ltsa/lts/ProgressTest.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/ltsa_code/ic/doc/ltsa/lts/Range.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/ltsa_code/ic/doc/ltsa/lts/RelabelDefn.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/ltsa_code/ic/doc/ltsa/lts/SeqProcessRef.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/ltsa_code/ic/doc/ltsa/lts/StackChecker.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/ltsa_code/ic/doc/ltsa/lts/StackEntries.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/ltsa_code/ic/doc/ltsa/lts/StateCodec.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/ltsa_code/ic/doc/ltsa/lts/StateDefn.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/ltsa_code/ic/doc/ltsa/lts/StateExpr.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/ltsa_code/ic/doc/ltsa/lts/StateMachine.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/ltsa_code/ic/doc/ltsa/lts/SuperTrace.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/ltsa_code/ic/doc/ltsa/lts/Symbol.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/ltsa_code/ic/doc/ltsa/lts/SymbolTable.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/ltsa_code/ic/doc/ltsa/lts/Transition.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/ltsa_code/ic/doc/ltsa/lts/Value.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/ltsa_code/ic/doc/ltsa/lts/ltl/And.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/ltsa_code/ic/doc/ltsa/lts/ltl/AssertDefinition.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/ltsa_code/ic/doc/ltsa/lts/ltl/Converter.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/ltsa_code/ic/doc/ltsa/lts/ltl/False.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/ltsa_code/ic/doc/ltsa/lts/ltl/FluentTrace.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/ltsa_code/ic/doc/ltsa/lts/ltl/Formula.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/ltsa_code/ic/doc/ltsa/lts/ltl/FormulaFactory.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/ltsa_code/ic/doc/ltsa/lts/ltl/FormulaSyntax.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/ltsa_code/ic/doc/ltsa/lts/ltl/GeneralizedBuchiAutomata.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/ltsa_code/ic/doc/ltsa/lts/ltl/LTLparser.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/ltsa_code/ic/doc/ltsa/lts/ltl/LabelFactory.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/ltsa_code/ic/doc/ltsa/lts/ltl/Next.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/ltsa_code/ic/doc/ltsa/lts/ltl/Node.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/ltsa_code/ic/doc/ltsa/lts/ltl/Not.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/ltsa_code/ic/doc/ltsa/lts/ltl/NotVisitor.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/ltsa_code/ic/doc/ltsa/lts/ltl/Or.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/ltsa_code/ic/doc/ltsa/lts/ltl/PredicateDefinition.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/ltsa_code/ic/doc/ltsa/lts/ltl/Proposition.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/ltsa_code/ic/doc/ltsa/lts/ltl/Release.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/ltsa_code/ic/doc/ltsa/lts/ltl/State.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/ltsa_code/ic/doc/ltsa/lts/ltl/Sub1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/ltsa_code/ic/doc/ltsa/lts/ltl/Sub2.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/ltsa_code/ic/doc/ltsa/lts/ltl/Transition.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/ltsa_code/ic/doc/ltsa/lts/ltl/True.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/ltsa_code/ic/doc/ltsa/lts/ltl/Until.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/ltsa_code/ic/doc/ltsa/lts/ltl/UntilVisitor.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/ltsa_code/ic/ic.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/ltsa_code/ltsa_code.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/ltsa_code/moti_example.lts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/ltsa_code/moti_example1.lts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/ltsa_code/scenebeans.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/ltsa_code/source.lts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/scenebeans.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/source.lts" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1ovf4ws00wn5L94R9zLwiYt6zX9" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="project.structure.last.edited" value="Libraries" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="restartRequiresConfirmation" value="false" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/libs" />
+      <recent name="$PROJECT_DIR$" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
+      <recent name="$PROJECT_DIR$/gov/nasa/ltl/graph" />
+      <recent name="$PROJECT_DIR$/ic/doc/ltsa/lts/ltl" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.Main">
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Main" />
+      <module name="ltsa_code" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SequenceGenerator" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="SequenceGenerator" />
+      <module name="ltsa_code" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ic.doc.Test" />
+      <module name="ltsa_code" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ic.doc.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Magicbeans.jar" type="JarApplication" temporary="true">
+      <option name="JAR_PATH" value="$USER_HOME$/Downloads/Magicbeans.jar!/" />
+      <method v="2" />
+    </configuration>
+    <configuration name="scenebeans.jar" type="JarApplication" temporary="true">
+      <option name="JAR_PATH" value="$PROJECT_DIR$/../LatestMTSA/lib/scenebeans.jar!/" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Main" />
+        <item itemvalue="Application.SequenceGenerator" />
+        <item itemvalue="Application.Test" />
+        <item itemvalue="JAR Application.scenebeans.jar" />
+        <item itemvalue="JAR Application.Magicbeans.jar" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="40cbfa5a-7796-46af-834d-93c19995ac68" name="Default Changelist" comment="" />
+      <created>1614171796989</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1614171796989</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="223" y="23" width="1024" height="834" key="#Project_Structure" timestamp="1614746884137">
+      <screen x="0" y="23" width="1440" height="834" />
+    </state>
+    <state x="223" y="23" width="1024" height="834" key="#Project_Structure/0.23.1440.834@0.23.1440.834" timestamp="1614746884137" />
+    <state x="338" y="-770" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1615989240884">
+      <screen x="-280" y="-1057" width="1920" height="1057" />
+    </state>
+    <state x="338" y="-770" key="#com.intellij.fileTypes.FileTypeChooser/0.23.1440.833/-280.-1057.1920.1057@-280.-1057.1920.1057" timestamp="1615989240884" />
+    <state x="455" y="-828" key="#com.intellij.ide.util.MemberChooser" timestamp="1620110594821">
+      <screen x="-275" y="-1057" width="1920" height="1057" />
+    </state>
+    <state x="455" y="-828" key="#com.intellij.ide.util.MemberChooser/0.23.1440.833/-275.-1057.1920.1057@-275.-1057.1920.1057" timestamp="1620110594821" />
+    <state x="711" y="-772" key="#com.intellij.ide.util.TreeClassChooserDialog" timestamp="1618442429565">
+      <screen x="-275" y="-1057" width="1920" height="1057" />
+    </state>
+    <state x="711" y="-772" key="#com.intellij.ide.util.TreeClassChooserDialog/0.23.1440.834/-275.-1057.1920.1057@-275.-1057.1920.1057" timestamp="1618442429565" />
+    <state x="483" y="302" key="ANALYSIS_DLG_com.intellij.analysis.BaseAnalysisAction$1" timestamp="1614751214979">
+      <screen x="0" y="23" width="1440" height="838" />
+    </state>
+    <state x="483" y="302" key="ANALYSIS_DLG_com.intellij.analysis.BaseAnalysisAction$1/0.23.1440.838@0.23.1440.838" timestamp="1614751214979" />
+    <state x="506" y="326" key="DetectedRootsChooserDialog" timestamp="1614204533337">
+      <screen x="0" y="23" width="1440" height="840" />
+    </state>
+    <state x="506" y="326" key="DetectedRootsChooserDialog/0.23.1440.840@0.23.1440.840" timestamp="1614204533337" />
+    <state width="1622" height="226" key="GridCell.Tab.0.bottom" timestamp="1620110947785">
+      <screen x="-275" y="-1057" width="1920" height="1057" />
+    </state>
+    <state width="1398" height="255" key="GridCell.Tab.0.bottom/0.0.1440.900@0.0.1440.900" timestamp="1614774105050" />
+    <state width="1622" height="226" key="GridCell.Tab.0.bottom/0.23.1440.833/-275.-1057.1920.1057@-275.-1057.1920.1057" timestamp="1620110947785" />
+    <state width="1129" height="207" key="GridCell.Tab.0.bottom/0.23.1440.833/-280.-1057.1920.1057@-280.-1057.1920.1057" timestamp="1616028437387" />
+    <state width="1603" height="284" key="GridCell.Tab.0.bottom/0.23.1440.833/-295.-1057.1920.1057@-295.-1057.1920.1057" timestamp="1616636011020" />
+    <state width="1398" height="206" key="GridCell.Tab.0.bottom/0.23.1440.833@0.23.1440.833" timestamp="1620030850292" />
+    <state width="1398" height="223" key="GridCell.Tab.0.bottom/0.23.1440.834/-275.-1057.1920.1057@-275.-1057.1920.1057" timestamp="1618475488907" />
+    <state width="1358" height="193" key="GridCell.Tab.0.bottom/0.23.1440.834@0.23.1440.834" timestamp="1614748696700" />
+    <state width="1415" height="412" key="GridCell.Tab.0.bottom/0.23.1440.835/-275.-1057.1920.1057@-275.-1057.1920.1057" timestamp="1618444179044" />
+    <state width="1415" height="289" key="GridCell.Tab.0.bottom/0.23.1440.836/-275.-1057.1920.1057@-275.-1057.1920.1057" timestamp="1618441189591" />
+    <state width="1398" height="341" key="GridCell.Tab.0.bottom/0.23.1440.836@0.23.1440.836" timestamp="1618449846175" />
+    <state width="1415" height="192" key="GridCell.Tab.0.bottom/0.23.1440.837/-275.-1057.1920.1057@-275.-1057.1920.1057" timestamp="1617786152587" />
+    <state width="1358" height="246" key="GridCell.Tab.0.bottom/0.23.1440.837@0.23.1440.837" timestamp="1614756033839" />
+    <state width="1358" height="371" key="GridCell.Tab.0.bottom/0.23.1440.838@0.23.1440.838" timestamp="1614769774385" />
+    <state width="1386" height="242" key="GridCell.Tab.0.bottom/0.23.1440.839@0.23.1440.839" timestamp="1614785871150" />
+    <state width="1386" height="16" key="GridCell.Tab.0.bottom/0.23.1440.840@0.23.1440.840" timestamp="1614813288828" />
+    <state width="1386" height="156" key="GridCell.Tab.0.bottom/0.23.1440.841@0.23.1440.841" timestamp="1615298526287" />
+    <state width="1386" height="219" key="GridCell.Tab.0.bottom/0.23.1440.842@0.23.1440.842" timestamp="1614817445495" />
+    <state width="1386" height="230" key="GridCell.Tab.0.bottom/0.23.1440.843@0.23.1440.843" timestamp="1614821077250" />
+    <state width="1622" height="226" key="GridCell.Tab.0.center" timestamp="1620110947784">
+      <screen x="-275" y="-1057" width="1920" height="1057" />
+    </state>
+    <state width="1398" height="255" key="GridCell.Tab.0.center/0.0.1440.900@0.0.1440.900" timestamp="1614774105049" />
+    <state width="1622" height="226" key="GridCell.Tab.0.center/0.23.1440.833/-275.-1057.1920.1057@-275.-1057.1920.1057" timestamp="1620110947784" />
+    <state width="1129" height="207" key="GridCell.Tab.0.center/0.23.1440.833/-280.-1057.1920.1057@-280.-1057.1920.1057" timestamp="1616028437386" />
+    <state width="1603" height="284" key="GridCell.Tab.0.center/0.23.1440.833/-295.-1057.1920.1057@-295.-1057.1920.1057" timestamp="1616636011019" />
+    <state width="1398" height="206" key="GridCell.Tab.0.center/0.23.1440.833@0.23.1440.833" timestamp="1620030850291" />
+    <state width="1398" height="223" key="GridCell.Tab.0.center/0.23.1440.834/-275.-1057.1920.1057@-275.-1057.1920.1057" timestamp="1618475488906" />
+    <state width="1358" height="193" key="GridCell.Tab.0.center/0.23.1440.834@0.23.1440.834" timestamp="1614748696699" />
+    <state width="1415" height="412" key="GridCell.Tab.0.center/0.23.1440.835/-275.-1057.1920.1057@-275.-1057.1920.1057" timestamp="1618444179036" />
+    <state width="1415" height="289" key="GridCell.Tab.0.center/0.23.1440.836/-275.-1057.1920.1057@-275.-1057.1920.1057" timestamp="1618441189590" />
+    <state width="1398" height="341" key="GridCell.Tab.0.center/0.23.1440.836@0.23.1440.836" timestamp="1618449846173" />
+    <state width="1415" height="192" key="GridCell.Tab.0.center/0.23.1440.837/-275.-1057.1920.1057@-275.-1057.1920.1057" timestamp="1617786152586" />
+    <state width="1358" height="246" key="GridCell.Tab.0.center/0.23.1440.837@0.23.1440.837" timestamp="1614756033838" />
+    <state width="1358" height="371" key="GridCell.Tab.0.center/0.23.1440.838@0.23.1440.838" timestamp="1614769774384" />
+    <state width="1386" height="242" key="GridCell.Tab.0.center/0.23.1440.839@0.23.1440.839" timestamp="1614785871149" />
+    <state width="1386" height="16" key="GridCell.Tab.0.center/0.23.1440.840@0.23.1440.840" timestamp="1614813288827" />
+    <state width="1386" height="156" key="GridCell.Tab.0.center/0.23.1440.841@0.23.1440.841" timestamp="1615298526287" />
+    <state width="1386" height="219" key="GridCell.Tab.0.center/0.23.1440.842@0.23.1440.842" timestamp="1614817445494" />
+    <state width="1386" height="230" key="GridCell.Tab.0.center/0.23.1440.843@0.23.1440.843" timestamp="1614821077249" />
+    <state width="1622" height="226" key="GridCell.Tab.0.left" timestamp="1620110947783">
+      <screen x="-275" y="-1057" width="1920" height="1057" />
+    </state>
+    <state width="1398" height="255" key="GridCell.Tab.0.left/0.0.1440.900@0.0.1440.900" timestamp="1614774105048" />
+    <state width="1622" height="226" key="GridCell.Tab.0.left/0.23.1440.833/-275.-1057.1920.1057@-275.-1057.1920.1057" timestamp="1620110947783" />
+    <state width="1129" height="207" key="GridCell.Tab.0.left/0.23.1440.833/-280.-1057.1920.1057@-280.-1057.1920.1057" timestamp="1616028437386" />
+    <state width="1603" height="284" key="GridCell.Tab.0.left/0.23.1440.833/-295.-1057.1920.1057@-295.-1057.1920.1057" timestamp="1616636011018" />
+    <state width="1398" height="206" key="GridCell.Tab.0.left/0.23.1440.833@0.23.1440.833" timestamp="1620030850291" />
+    <state width="1398" height="223" key="GridCell.Tab.0.left/0.23.1440.834/-275.-1057.1920.1057@-275.-1057.1920.1057" timestamp="1618475488906" />
+    <state width="1358" height="193" key="GridCell.Tab.0.left/0.23.1440.834@0.23.1440.834" timestamp="1614748696699" />
+    <state width="1415" height="412" key="GridCell.Tab.0.left/0.23.1440.835/-275.-1057.1920.1057@-275.-1057.1920.1057" timestamp="1618444179026" />
+    <state width="1415" height="289" key="GridCell.Tab.0.left/0.23.1440.836/-275.-1057.1920.1057@-275.-1057.1920.1057" timestamp="1618441189590" />
+    <state width="1398" height="341" key="GridCell.Tab.0.left/0.23.1440.836@0.23.1440.836" timestamp="1618449846172" />
+    <state width="1415" height="192" key="GridCell.Tab.0.left/0.23.1440.837/-275.-1057.1920.1057@-275.-1057.1920.1057" timestamp="1617786152585" />
+    <state width="1358" height="246" key="GridCell.Tab.0.left/0.23.1440.837@0.23.1440.837" timestamp="1614756033837" />
+    <state width="1358" height="371" key="GridCell.Tab.0.left/0.23.1440.838@0.23.1440.838" timestamp="1614769774383" />
+    <state width="1386" height="242" key="GridCell.Tab.0.left/0.23.1440.839@0.23.1440.839" timestamp="1614785871149" />
+    <state width="1386" height="16" key="GridCell.Tab.0.left/0.23.1440.840@0.23.1440.840" timestamp="1614813288827" />
+    <state width="1386" height="156" key="GridCell.Tab.0.left/0.23.1440.841@0.23.1440.841" timestamp="1615298526286" />
+    <state width="1386" height="219" key="GridCell.Tab.0.left/0.23.1440.842@0.23.1440.842" timestamp="1614817445494" />
+    <state width="1386" height="230" key="GridCell.Tab.0.left/0.23.1440.843@0.23.1440.843" timestamp="1614821077248" />
+    <state width="1622" height="226" key="GridCell.Tab.0.right" timestamp="1620110947784">
+      <screen x="-275" y="-1057" width="1920" height="1057" />
+    </state>
+    <state width="1398" height="255" key="GridCell.Tab.0.right/0.0.1440.900@0.0.1440.900" timestamp="1614774105049" />
+    <state width="1622" height="226" key="GridCell.Tab.0.right/0.23.1440.833/-275.-1057.1920.1057@-275.-1057.1920.1057" timestamp="1620110947784" />
+    <state width="1129" height="207" key="GridCell.Tab.0.right/0.23.1440.833/-280.-1057.1920.1057@-280.-1057.1920.1057" timestamp="1616028437387" />
+    <state width="1603" height="284" key="GridCell.Tab.0.right/0.23.1440.833/-295.-1057.1920.1057@-295.-1057.1920.1057" timestamp="1616636011019" />
+    <state width="1398" height="206" key="GridCell.Tab.0.right/0.23.1440.833@0.23.1440.833" timestamp="1620030850292" />
+    <state width="1398" height="223" key="GridCell.Tab.0.right/0.23.1440.834/-275.-1057.1920.1057@-275.-1057.1920.1057" timestamp="1618475488907" />
+    <state width="1358" height="193" key="GridCell.Tab.0.right/0.23.1440.834@0.23.1440.834" timestamp="1614748696699" />
+    <state width="1415" height="412" key="GridCell.Tab.0.right/0.23.1440.835/-275.-1057.1920.1057@-275.-1057.1920.1057" timestamp="1618444179042" />
+    <state width="1415" height="289" key="GridCell.Tab.0.right/0.23.1440.836/-275.-1057.1920.1057@-275.-1057.1920.1057" timestamp="1618441189591" />
+    <state width="1398" height="341" key="GridCell.Tab.0.right/0.23.1440.836@0.23.1440.836" timestamp="1618449846173" />
+    <state width="1415" height="192" key="GridCell.Tab.0.right/0.23.1440.837/-275.-1057.1920.1057@-275.-1057.1920.1057" timestamp="1617786152586" />
+    <state width="1358" height="246" key="GridCell.Tab.0.right/0.23.1440.837@0.23.1440.837" timestamp="1614756033838" />
+    <state width="1358" height="371" key="GridCell.Tab.0.right/0.23.1440.838@0.23.1440.838" timestamp="1614769774384" />
+    <state width="1386" height="242" key="GridCell.Tab.0.right/0.23.1440.839@0.23.1440.839" timestamp="1614785871149" />
+    <state width="1386" height="16" key="GridCell.Tab.0.right/0.23.1440.840@0.23.1440.840" timestamp="1614813288828" />
+    <state width="1386" height="156" key="GridCell.Tab.0.right/0.23.1440.841@0.23.1440.841" timestamp="1615298526287" />
+    <state width="1386" height="219" key="GridCell.Tab.0.right/0.23.1440.842@0.23.1440.842" timestamp="1614817445495" />
+    <state width="1386" height="230" key="GridCell.Tab.0.right/0.23.1440.843@0.23.1440.843" timestamp="1614821077249" />
+    <state width="1386" height="246" key="GridCell.Tab.1.bottom" timestamp="1615298500902">
+      <screen x="0" y="23" width="1440" height="841" />
+    </state>
+    <state width="1358" height="246" key="GridCell.Tab.1.bottom/0.23.1440.837@0.23.1440.837" timestamp="1614756033840" />
+    <state width="1386" height="246" key="GridCell.Tab.1.bottom/0.23.1440.841@0.23.1440.841" timestamp="1615298500902" />
+    <state width="1386" height="246" key="GridCell.Tab.1.bottom/0.23.1440.842@0.23.1440.842" timestamp="1614816933256" />
+    <state width="1386" height="246" key="GridCell.Tab.1.center" timestamp="1615298500902">
+      <screen x="0" y="23" width="1440" height="841" />
+    </state>
+    <state width="1358" height="246" key="GridCell.Tab.1.center/0.23.1440.837@0.23.1440.837" timestamp="1614756033839" />
+    <state width="1386" height="246" key="GridCell.Tab.1.center/0.23.1440.841@0.23.1440.841" timestamp="1615298500902" />
+    <state width="1386" height="246" key="GridCell.Tab.1.center/0.23.1440.842@0.23.1440.842" timestamp="1614816933255" />
+    <state width="1386" height="246" key="GridCell.Tab.1.left" timestamp="1615298500901">
+      <screen x="0" y="23" width="1440" height="841" />
+    </state>
+    <state width="1358" height="246" key="GridCell.Tab.1.left/0.23.1440.837@0.23.1440.837" timestamp="1614756033839" />
+    <state width="1386" height="246" key="GridCell.Tab.1.left/0.23.1440.841@0.23.1440.841" timestamp="1615298500901" />
+    <state width="1386" height="246" key="GridCell.Tab.1.left/0.23.1440.842@0.23.1440.842" timestamp="1614816933255" />
+    <state width="1386" height="246" key="GridCell.Tab.1.right" timestamp="1615298500902">
+      <screen x="0" y="23" width="1440" height="841" />
+    </state>
+    <state width="1358" height="246" key="GridCell.Tab.1.right/0.23.1440.837@0.23.1440.837" timestamp="1614756033840" />
+    <state width="1386" height="246" key="GridCell.Tab.1.right/0.23.1440.841@0.23.1440.841" timestamp="1615298500902" />
+    <state width="1386" height="246" key="GridCell.Tab.1.right/0.23.1440.842@0.23.1440.842" timestamp="1614816933256" />
+    <state x="461" y="-987" width="1024" height="834" key="SettingsEditor" timestamp="1618443573613">
+      <screen x="-275" y="-1057" width="1920" height="1057" />
+    </state>
+    <state x="282" y="-980" key="SettingsEditor/0.23.1440.833/-275.-1057.1920.1057@-275.-1057.1920.1057" timestamp="1618443226942" />
+    <state x="-157" y="-1057" key="SettingsEditor/0.23.1440.833/-280.-1057.1920.1057@-280.-1057.1920.1057" timestamp="1616003093337" />
+    <state x="92" y="23" width="1024" height="833" key="SettingsEditor/0.23.1440.833@0.23.1440.833" timestamp="1614745305271" />
+    <state x="461" y="-987" key="SettingsEditor/0.23.1440.834/-275.-1057.1920.1057@-275.-1057.1920.1057" timestamp="1618443573613" />
+    <state x="92" y="23" width="1024" height="834" key="SettingsEditor/0.23.1440.834@0.23.1440.834" timestamp="1614748486837" />
+    <state x="-152" y="-1057" key="SettingsEditor/0.23.1440.836/-275.-1057.1920.1057@-275.-1057.1920.1057" timestamp="1618441538203" />
+    <state x="92" y="23" key="SettingsEditor/0.23.1440.838@0.23.1440.838" timestamp="1614753647945" />
+    <state x="223" y="25" key="SettingsEditor/0.23.1440.839@0.23.1440.839" timestamp="1614754260176" />
+    <state x="92" y="23" key="SettingsEditor/0.23.1440.840@0.23.1440.840" timestamp="1614754348833" />
+    <state x="92" y="23" key="SettingsEditor/0.23.1440.842@0.23.1440.842" timestamp="1614813942382" />
+    <state x="92" y="23" key="SettingsEditor/0.23.1440.843@0.23.1440.843" timestamp="1614821039177" />
+    <state x="245" y="100" width="948" height="760" key="com.intellij.xdebugger.impl.breakpoints.ui.BreakpointsDialogFactory$2" timestamp="1614765772320">
+      <screen x="0" y="23" width="1440" height="838" />
+    </state>
+    <state x="245" y="100" width="948" height="760" key="com.intellij.xdebugger.impl.breakpoints.ui.BreakpointsDialogFactory$2/0.23.1440.838@0.23.1440.838" timestamp="1614765772320" />
+    <state x="277" y="-1035" width="795" height="993" key="find.popup" timestamp="1620105372805">
+      <screen x="-275" y="-1057" width="1920" height="1057" />
+    </state>
+    <state x="277" y="-1035" width="795" height="993" key="find.popup/0.23.1440.833/-275.-1057.1920.1057@-275.-1057.1920.1057" timestamp="1620105372805" />
+    <state x="414" y="40" width="596" height="783" key="find.popup/0.23.1440.834@0.23.1440.834" timestamp="1614748548694" />
+    <state width="600" height="440" key="javadoc.popup" timestamp="1615603066212">
+      <screen x="0" y="23" width="1440" height="833" />
+    </state>
+    <state width="600" height="440" key="javadoc.popup/0.23.1440.833@0.23.1440.833" timestamp="1615603066212" />
+    <state x="88" y="23" key="new project wizard" timestamp="1616934063173">
+      <screen x="0" y="23" width="1440" height="833" />
+    </state>
+    <state x="88" y="23" key="new project wizard/0.23.1440.833@0.23.1440.833" timestamp="1616934063173" />
+    <state x="386" y="194" key="run.anything.popup" timestamp="1614755329832">
+      <screen x="0" y="23" width="1440" height="837" />
+    </state>
+    <state x="386" y="194" key="run.anything.popup/0.23.1440.837@0.23.1440.837" timestamp="1614755329832" />
+    <state x="386" y="194" width="670" height="675" key="run.anything.popup/0.23.1440.838@0.23.1440.838" timestamp="1614752765944" />
+    <state x="237" y="-852" width="894" height="854" key="search.everywhere.popup" timestamp="1617779515449">
+      <screen x="-275" y="-1057" width="1920" height="1057" />
+    </state>
+    <state x="232" y="-852" width="894" height="854" key="search.everywhere.popup/0.23.1440.833/-280.-1057.1920.1057@-280.-1057.1920.1057" timestamp="1616018873542" />
+    <state x="217" y="-852" width="894" height="854" key="search.everywhere.popup/0.23.1440.833/-295.-1057.1920.1057@-295.-1057.1920.1057" timestamp="1616485737101" />
+    <state x="237" y="-852" width="894" height="854" key="search.everywhere.popup/0.23.1440.837/-275.-1057.1920.1057@-275.-1057.1920.1057" timestamp="1617779515449" />
+    <state x="384" y="185" width="670" height="676" key="search.everywhere.popup/0.23.1440.838@0.23.1440.838" timestamp="1614756107498" />
+    <state x="384" y="186" width="670" height="680" key="search.everywhere.popup/0.23.1440.842@0.23.1440.842" timestamp="1614813868439" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <breakpoint enabled="true" type="java-exception">
+          <properties class="java.nio.file.NoSuchFileException" package="java.nio.file" />
+          <option name="timeStamp" value="7" />
+        </breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/ltsa_code$Main.ic" NAME="Main Coverage Results" MODIFIED="1615999844789" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
+  </component>
+</project>
