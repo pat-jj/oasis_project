@@ -1,6 +1,7 @@
 import java.io.IOException;
 import java.util.ArrayList;
-
+import java.util.HashMap;
+import java.util.List;
 
 public class Main {
 
@@ -8,11 +9,12 @@ public class Main {
         System.out.println("---- Start ----");
         //alg.initAndRun();
         //---------------------------------------------------------------------------
+        //--------start
         ArrayList<ArrayList<Integer>> data = Retrieve_Data.retrieve_data();
         //---------------------------------------------------------------------------
         String csvFilePath = "/Users/rexjiang/desktop/";
-        String[] csvHeaders = {"login", "select", "charge_back", "pay_pw_back",
-                "decide_votes_back", "confirm_back", "logout", "NoVoteFlipping",
+        String[] csvHeaders = {"P0", "P1", "P2", "P3",
+                "P4", "P5", "P6", "NoVoteFlipping",
                 "NoPersonalInfoLeak", "NoVotesNumChange", "ChargeAfterLogin",
                 "NoConfirmAfterSelectUntilVote", "PayAfterCharge"};
 

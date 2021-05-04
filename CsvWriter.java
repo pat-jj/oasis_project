@@ -11,7 +11,7 @@ public class CsvWriter {
 
         // default all fields are enclosed in double quotes
         // default separator is a comma
-        String filename = filePath.concat("project_data1.csv");
+        String filename = filePath.concat("project_data_7.csv");
         try (CSVWriter writer = new CSVWriter(new FileWriter(filename))) {
             writer.writeAll(csvData);
         }
