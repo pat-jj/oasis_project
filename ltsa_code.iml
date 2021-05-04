@@ -29,5 +29,7 @@
     <orderEntry type="library" name="lib" level="project" />
     <orderEntry type="library" name="magicbeans-beta2" level="project" />
     <orderEntry type="library" name="scenebeans" level="project" />
+    <orderEntry type="library" name="javacsv-2.0" level="project" />
+    <orderEntry type="library" name="opencsv-5.4" level="project" />
   </component>
 </module>
