@@ -36,7 +36,7 @@ public class Retrieve_Data {
             map_ActionToInt.put(Actions.get(i).get(0), i + 1);
         }
 //        sequences.size();
-        for (int i = 0; i < 20; i++) {
+        for (int i = 0; i < sequences.size(); i++) {
             Algorithm_ alg = new Algorithm_();
             alg.initAndRun(sg.constructedLTS(sequences.get(i)));
             ArrayList<Integer> list = new ArrayList<>();
@@ -46,7 +46,7 @@ public class Retrieve_Data {
             list.addAll(alg.getChecking_Result());
             data.add(list);
             System.out.println("Completion for " + i);
-            //System.out.println("Hello, Data!" + data);
+            System.out.println("Hello, Data!" + data);
         }
 //        System.out.println(sequences.get(35));
 //        System.out.println(sg.constructedLTS(sequences.get(35)));
