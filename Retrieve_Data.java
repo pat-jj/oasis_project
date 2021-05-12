@@ -6,7 +6,7 @@ public class Retrieve_Data {
     public static ArrayList<ArrayList<Integer>> retrieve_data(){
         ArrayList<ArrayList<Integer>> data = new ArrayList<>();
         String[] actions = {"login", "select", "charge_back", "pay_pw_back",
-                "decide_votes_back", "confirm_back", "logout"};
+                "decide_votes_back", "confirm", "logout"};
 
         SequenceGenerator sg = new SequenceGenerator();
         ArrayList<ArrayList<String>> sequences = new ArrayList<ArrayList<String>>();
@@ -17,9 +17,9 @@ public class Retrieve_Data {
         String original_BM = "BM_1=(login->P1),\n" +
                 "P1=(select->P2),\n" +
                 "P2=(charge->P3|back->P1),\n" +
-                "P3=(pay_pw->P4|back->P2),\n" +
-                "P4=(decide_votes->P5|back->P3),\n" +
-                "P5=(confirm->P6|back->P4),\n" +
+                "P3=(decide_votes->P4|back->P2),\n" +
+                "P4=(pay_pw->P5|back->P3),\n" +
+                "P5=(confirm->P6),\n" +
                 "P6=(logout->END).\n";
 
         LTS_to_KS ltk = new LTS_to_KS();

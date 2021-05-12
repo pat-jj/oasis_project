@@ -13,8 +13,7 @@
     <list default="true" id="40cbfa5a-7796-46af-834d-93c19995ac68" name="Default Changelist" comment="version2">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Retrieve_Data.java" beforeDir="false" afterPath="$PROJECT_DIR$/Retrieve_Data.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/ltsa_code/CsvWriter.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/ltsa_code/CsvWriter.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/ltsa_code/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/ltsa_code/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SequenceGenerator.java" beforeDir="false" afterPath="$PROJECT_DIR$/SequenceGenerator.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/out/production/ltsa_code/Retrieve_Data.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/ltsa_code/Retrieve_Data.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/out/production/ltsa_code/SequenceGenerator.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/ltsa_code/SequenceGenerator.class" afterDir="false" />
     </list>

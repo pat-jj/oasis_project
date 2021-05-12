@@ -35,7 +35,7 @@ public class SequenceGenerator {
     public static String actonTranslated (String act, int i, int len){
         String[] subs = new String[2];
         String result = "";
-        if (act.equals("login") || act.equals("select") || act.equals("logout")) {
+        if (act.equals("login") || act.equals("select") || act.equals("confirm") || act.equals("logout")) {
             subs[0] = act;
         }
         if (act.equals("charge_back")){
@@ -50,10 +50,10 @@ public class SequenceGenerator {
             subs[0] = "decide_votes";
             subs[1] = "back";
         }
-        if (act.equals("confirm_back")){
-            subs[0] = "confirm";
-            subs[1] = "back";
-        }
+//        if (act.equals("confirm")){
+//            subs[0] = "confirm";
+//            subs[1] = "back";
+//        }
 
         if (i == 0){
             result = "BM_1=(" + subs[0] + "->P1),";
@@ -64,7 +64,11 @@ public class SequenceGenerator {
                 result = "P" + i + "=(" + subs[0] + "->END|" + subs[1] + "->P" + (i-1) + ").";
             }
         }else if (i == 1){
+            if (subs[1] == null) {
                 result = "P" + i + "=(" + subs[0] + "->P" + (i + 1) + "),";
+            }else {
+                result = "P" + i + "=(" + subs[0] + "->P" + (i + 1) + "|" + subs[1] + "->BM_1),";
+            }
         }else{
             if (subs[1] == null){
                 result = "P" + i + "=(" + subs[0] + "->P" + (i + 1) + "),";
