@@ -67,10 +67,10 @@ public class Algorithm_ {
             if(i == 3){
                 Check = "ChargeAfterLogin";
                 REQ = "\tChargeAfterLogin = Q0,\n" +
-                        "\tQ0\t= ({mu, u}.charge -> ERROR\n" +
-                        "\t\t  |{mu, u}.login -> Q1),\n" +
+                        "\tQ0\t= ({mu, u}.login -> Q0\n" +
+                        "\t\t  |{mu, u}.charge -> Q1),\n" +
                         "\tQ1\t= ({mu, u}.login -> ERROR\n" +
-                        "\t\t  |{mu, u}.charge -> Q0).\n";
+                        "\t\t  |{mu, u}.charge -> Q1).\n";
                 CHECK = "||Check = (Env||ChargeAfterLogin).";
             }
             if(i == 4){
@@ -87,10 +87,10 @@ public class Algorithm_ {
             if(i == 5){
                 Check = "PayAfterCharge";
                 REQ = "\tPayAfterCharge = Q0,\n" +
-                        "\tQ0\t= ({u, mu}.pay_pw -> ERROR\n" +
-                        "\t\t  |{u, mu}.charge -> Q1),\n" +
-                        "\tQ1\t= ({u, mu}.charge -> ERROR\n" +
-                        "\t\t  |{u, mu}.pay_pw -> Q0).\n";
+                        "\tQ0\t= ({mu, u}.charge -> Q0\n" +
+                        "\t\t  |{mu, u}.pay_pw -> Q1),\n" +
+                        "\tQ1\t= ({mu, u}.charge -> ERROR\n" +
+                        "\t\t  |{mu, u}.pay_pw -> Q1).\n";
                 CHECK = "||Check = (Env||PayAfterCharge).";
 
             }
